@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OpenTrend — GitHub &amp; HuggingFace Trending Open-Source Hub</title>
+<meta name="description" content="OpenTrend tracks trending GitHub repositories and HuggingFace models, datasets and Spaces in real time — plus curated collections of AI agent, Android, self-hosted and developer tools.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.getmobileclaw.com/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="OpenTrend — GitHub &amp; HuggingFace Trending">
+<meta property="og:description" content="Live GitHub trending, HuggingFace trends and curated open-source collections — refreshed hourly.">
+<meta property="og:url" content="https://www.getmobileclaw.com/">
+<meta property="og:site_name" content="OpenTrend">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="OpenTrend — GitHub &amp; HuggingFace Trending">
+<meta name="twitter:description" content="Live GitHub trending, HuggingFace trends and curated open-source collections.">
+<meta name="theme-color" content="#191922">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Wix+Madefor+Display:wght@400;500;600&family=Wix+Madefor+Text:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "OpenTrend",
+  "url": "https://www.getmobileclaw.com/",
+  "description": "Trending GitHub repositories and HuggingFace models, datasets and Spaces with curated open-source collections.",
+  "inLanguage": "en",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://github.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+</head>
+<body>
+
+<header class="site-header" id="siteHeader">
+  <div class="wrap header-inner">
+    <a class="brand" href="/" aria-label="OpenTrend home">
+      <span class="brand-dot" aria-hidden="true"></span>
+      <span class="brand-name">OpenTrend</span>
+    </a>
+
+    <nav class="main-nav" aria-label="Primary">
+      <a href="#github-trending" data-i18n="nav.github">GitHub Trending</a>
+      <a href="#hf-trending" data-i18n="nav.hf">HuggingFace</a>
+      <a href="#collections" data-i18n="nav.collections">Collections</a>
+      <a href="#about" data-i18n="nav.about">About</a>
+    </nav>
+
+    <div class="lang-switch" role="button" tabindex="0" aria-haspopup="listbox" aria-expanded="false" id="langBtn">
+      <span class="lang-globe" aria-hidden="true"></span>
+      <span id="langLabel">EN</span>
+      <span class="lang-caret" aria-hidden="true">▾</span>
+      <ul class="lang-menu" id="langMenu" role="listbox" hidden></ul>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <section class="hero">
+    <img class="hero__photo" src="/assets/hero.jpg" alt="Fog filling a valley at sunset, seen from a summit" fetchpriority="high" width="2560" height="1672">
+    <div class="hero__scrim" aria-hidden="true"></div>
+
+    <div class="wrap hero-grid">
+      <div class="hero-copy">
+        <p class="hero-kicker" data-i18n="hero.kicker">Live open-source intelligence</p>
+        <h1 class="hero-title">
+          <span data-i18n="hero.title1">What the open-source world is building</span>
+          <span data-i18n="hero.title2">right now.</span>
+        </h1>
+        <p class="hero-sub" data-i18n="hero.sub">Real-time GitHub trending, HuggingFace models, datasets and Spaces — plus hand-curated collections of agent frameworks, Android tools, self-hosted apps and developer utilities.</p>
+        <div class="hero-actions">
+          <a class="btn" href="#github-trending" data-i18n="hero.cta">See today's trends</a>
+          <a class="btn btn-ghost-light" href="#collections" data-i18n="hero.cta2">Browse collections</a>
+        </div>
+      </div>
+
+      <div class="hero-product glass" id="heroPanel">
+        <div class="panel-caption">
+          <span class="dot dot-live" aria-hidden="true"></span>
+          <span data-i18n="hero.panel">Trending on GitHub today</span>
+        </div>
+        <ol class="glass-rows" id="heroRows">
+          <li class="skeleton skeleton-row" aria-hidden="true"></li>
+          <li class="skeleton skeleton-row" aria-hidden="true"></li>
+          <li class="skeleton skeleton-row" aria-hidden="true"></li>
+        </ol>
+        <a class="panel-foot" href="#github-trending"><span data-i18n="hero.panelAll">All trending repositories</span><span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+    </div>
+
+    <div class="wrap tally-wrap">
+      <dl class="tally" id="tally">
+        <div class="tally-cell"><dd class="num" id="statTrending">—</dd><dt data-i18n="tally.gh">GitHub repos trending</dt></div>
+        <div class="tally-cell"><dd class="num" id="statHF">—</dd><dt data-i18n="tally.hf">HuggingFace items live</dt></div>
+        <div class="tally-cell"><dd class="num" id="statCol">—</dd><dt data-i18n="tally.col">Curated collections</dt></div>
+        <div class="tally-cell"><dd class="num" id="statCurated">—</dd><dt data-i18n="tally.cur">Repos indexed</dt></div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="band" id="github-trending">
+    <div class="wrap">
+      <div class="band-head">
+        <div class="band-titles">
+          <h2 data-i18n="gh.title">GitHub Trending</h2>
+          <p class="band-sub" data-i18n="gh.sub">Repositories gaining the most stars right now, scraped from github.com/trending and refreshed hourly.</p>
+        </div>
+        <div class="ruled-tabs" id="ghTabs" role="tablist">
+          <button class="rtab active" data-since="daily" role="tab" aria-selected="true" data-i18n="gh.daily">Today</button>
+          <button class="rtab" data-since="weekly" role="tab" aria-selected="false" data-i18n="gh.weekly">This week</button>
+        </div>
+      </div>
+      <div class="run" id="ghList" aria-live="polite">
+        <div class="skeleton skeleton-row" aria-hidden="true"></div>
+        <div class="skeleton skeleton-row" aria-hidden="true"></div>
+        <div class="skeleton skeleton-row" aria-hidden="true"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="band band-2" id="hf-trending">
+    <div class="wrap">
+      <div class="band-head">
+        <div class="band-titles">
+          <h2 data-i18n="hf.title">HuggingFace Trending</h2>
+          <p class="band-sub" data-i18n="hf.sub">Models, datasets and Spaces ranked by trending score on the HuggingFace Hub.</p>
+        </div>
+        <div class="ruled-tabs" id="hfTabs" role="tablist">
+          <button class="rtab active" data-type="models" role="tab" aria-selected="true" data-i18n="hf.models">Models</button>
+          <button class="rtab" data-type="datasets" role="tab" aria-selected="false" data-i18n="hf.datasets">Datasets</button>
+          <button class="rtab" data-type="spaces" role="tab" aria-selected="false" data-i18n="hf.spaces">Spaces</button>
+        </div>
+      </div>
+      <div class="tour">
+        <ol class="tour-list" id="hfList" aria-live="polite">
+          <li class="skeleton skeleton-row" aria-hidden="true"></li>
+          <li class="skeleton skeleton-row" aria-hidden="true"></li>
+          <li class="skeleton skeleton-row" aria-hidden="true"></li>
+        </ol>
+        <aside class="tour-pane glass" id="hfPane" aria-live="polite"></aside>
+      </div>
+    </div>
+  </section>
+
+  <section class="band" id="collections">
+    <div class="wrap">
+      <div class="band-head">
+        <div class="band-titles">
+          <h2 data-i18n="col.title">Curated Collections</h2>
+          <p class="band-sub" data-i18n="col.sub">Hand-picked repositories grouped by ecosystem — agent frameworks, media generation, Android, self-hosted and more.</p>
+        </div>
+        <div class="ruled-tabs" id="colTabs" role="tablist"></div>
+      </div>
+      <div class="well">
+        <div class="well-card">
+          <span class="well-desc" id="colDesc"></span>
+          <div class="run run-well" id="colList" aria-live="polite">
+            <div class="skeleton skeleton-row" aria-hidden="true"></div>
+            <div class="skeleton skeleton-row" aria-hidden="true"></div>
+            <div class="skeleton skeleton-row" aria-hidden="true"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="band band-2" id="about">
+    <div class="wrap about-grid">
+      <div class="about-copy">
+        <h2 data-i18n="about.title">About OpenTrend</h2>
+        <p data-i18n="about.p1">OpenTrend is MobileClaw's open-source trend dashboard. Every section is fed by an hourly-refreshed snapshot of GitHub's trending page, the HuggingFace Hub API and GitHub's repository search — so what you see is what developers are star-ing this hour.</p>
+        <p data-i18n="about.p2">The curated collections come from our research notebook: dozens of repositories across AI agents, LLM inference, video generation, Android tooling, self-hosted SaaS alternatives, web scraping and WiFi sensing projects.</p>
+        <p data-i18n="about.p3">Pick a language from the menu above — the whole page ships pre-translated in twelve languages, with brand names kept intact.</p>
+      </div>
+      <div class="about-card">
+        <h3 data-i18n="about.sources">Data sources</h3>
+        <ul class="source-list">
+          <li><a href="https://github.com/trending" rel="noopener" target="_blank">github.com/trending</a> <span data-i18n="about.src1">— daily &amp; weekly trending</span></li>
+          <li><a href="https://huggingface.co/" rel="noopener" target="_blank">huggingface.co</a> <span data-i18n="about.src2">— trendingScore API</span></li>
+          <li><a href="https://docs.github.com/en/rest/search/search" rel="noopener" target="_blank">GitHub Search API</a> <span data-i18n="about.src3">— curated metadata</span></li>
+          <li><a href="https://github.com/dolemore/opentrend/actions" rel="noopener" target="_blank">GitHub Actions</a> <span data-i18n="about.src4">— hourly data refresh</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <p class="footer-line">© <span id="year">2026</span> OpenTrend · <span data-i18n="footer.tag">open-source trend tracker</span> · <span id="dataStamp"></span></p>
+    <p class="footer-note" data-i18n="footer.note">Not affiliated with GitHub or HuggingFace. All repository names belong to their owners.</p>
+    <p class="footer-credit">Hero photo: <a href="https://commons.wikimedia.org/wiki/File:Vallee-brouillard.jpg" rel="noopener" target="_blank">“Fog in the valley of Savoureuse”</a> by Thomas Bresson, <a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener" target="_blank">CC BY 3.0</a> via Wikimedia Commons.</p>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="/collections.js"></script>
+<script src="/strings.js"></script>
+<script src="/app.js"></script>
+</body>
+</html>

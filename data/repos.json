@@ -1,0 +1,1978 @@
+{
+  "generatedAt": "2026-11-19T21:30:09.344Z",
+  "repos": {
+    "google/artemis": {
+      "repo": "google/artemis",
+      "name": "artemis",
+      "owner": "google",
+      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
+      "stars": 17773,
+      "forks": 1982,
+      "language": "Python",
+      "url": "https://github.com/google/artemis",
+      "avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
+      "topics": [
+        "ai-agents",
+        "android",
+        "google",
+        "test-automation"
+      ],
+      "updatedAt": "2026-10-01T21:37:15Z",
+      "archived": false
+    },
+    "openclaw/openclaw": {
+      "repo": "openclaw/openclaw",
+      "name": "openclaw",
+      "owner": "openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 394826,
+      "forks": 82933,
+      "language": "TypeScript",
+      "url": "https://github.com/openclaw/openclaw",
+      "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty"
+      ],
+      "updatedAt": "2026-11-19T21:22:38Z",
+      "archived": false
+    },
+    "sundial-org/awesome-openclaw-skills": {
+      "repo": "sundial-org/awesome-openclaw-skills",
+      "name": "awesome-openclaw-skills",
+      "owner": "sundial-org",
+      "description": "Top OpenClaw skills, with the most popular and useful ones.",
+      "stars": 677,
+      "forks": 101,
+      "language": "Python",
+      "url": "https://github.com/sundial-org/awesome-openclaw-skills",
+      "avatar": "https://avatars.githubusercontent.com/u/225963689?v=4",
+      "topics": [],
+      "updatedAt": "2026-03-07T06:57:19Z",
+      "archived": false
+    },
+    "hkuds/nanobot": {
+      "repo": "HKUDS/nanobot",
+      "name": "nanobot",
+      "owner": "HKUDS",
+      "description": "Your lightweight open-source personal agent.",
+      "stars": 50210,
+      "forks": 8760,
+      "language": "Python",
+      "url": "https://github.com/HKUDS/nanobot",
+      "avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "topics": [
+        "agent-framework",
+        "ai-agent",
+        "ai-agents",
+        "chatbot"
+      ],
+      "updatedAt": "2026-11-19T16:46:22Z",
+      "archived": false
+    },
+    "open-jarvis/openjarvis": {
+      "repo": "open-jarvis/OpenJarvis",
+      "name": "OpenJarvis",
+      "owner": "open-jarvis",
+      "description": "Personal AI, On Personal Devices",
+      "stars": 17252,
+      "forks": 4188,
+      "language": "Python",
+      "url": "https://github.com/open-jarvis/OpenJarvis",
+      "avatar": "https://avatars.githubusercontent.com/u/266162746?v=4",
+      "topics": [],
+      "updatedAt": "2026-11-19T10:14:40Z",
+      "archived": false
+    },
+    "mobile-next/mobile-mcp": {
+      "repo": "mobile-next/mobile-mcp",
+      "name": "mobile-mcp",
+      "owner": "mobile-next",
+      "description": "Mobile MCP: let AI agents drive your iOS and Android apps. MCP server for simulators, emulators and real devices. Works with Claude Code, Codex, Cursor and any MCP client.",
+      "stars": 10730,
+      "forks": 960,
+      "language": "TypeScript",
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "avatar": "https://avatars.githubusercontent.com/u/205340688?v=4",
+      "topics": [
+        "agent",
+        "android",
+        "android-automation",
+        "appium-alternative"
+      ],
+      "updatedAt": "2026-11-18T11:54:15Z",
+      "archived": false
+    },
+    "homeassistant-ai/ha-mcp": {
+      "repo": "homeassistant-ai/ha-mcp",
+      "name": "ha-mcp",
+      "owner": "homeassistant-ai",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars": 8000,
+      "forks": 472,
+      "language": "Python",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "avatar": "https://avatars.githubusercontent.com/u/232192432?v=4",
+      "topics": [
+        "ai",
+        "claude",
+        "hacs",
+        "home-assistant"
+      ],
+      "updatedAt": "2026-11-19T15:57:41Z",
+      "archived": false
+    },
+    "homeassistant-ai/skills": {
+      "repo": "homeassistant-ai/skills",
+      "name": "skills",
+      "owner": "homeassistant-ai",
+      "description": "Home Assistant skills for agents",
+      "stars": 997,
+      "forks": 38,
+      "language": "Python",
+      "url": "https://github.com/homeassistant-ai/skills",
+      "avatar": "https://avatars.githubusercontent.com/u/232192432?v=4",
+      "topics": [],
+      "updatedAt": "2026-10-29T18:51:28Z",
+      "archived": false
+    },
+    "coderabbitai/skills": {
+      "repo": "coderabbitai/skills",
+      "name": "skills",
+      "owner": "coderabbitai",
+      "description": "",
+      "stars": 222,
+      "forks": 25,
+      "language": "TypeScript",
+      "url": "https://github.com/coderabbitai/skills",
+      "avatar": "https://avatars.githubusercontent.com/u/132028505?v=4",
+      "topics": [],
+      "updatedAt": "2026-11-19T10:49:22Z",
+      "archived": false
+    },
+    "gsd-build/get-shit-done": {
+      "repo": "gsd-build/get-shit-done",
+      "name": "get-shit-done",
+      "owner": "gsd-build",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "stars": 64130,
+      "forks": 5450,
+      "language": "JavaScript",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "avatar": "https://avatars.githubusercontent.com/u/260490621?v=4",
+      "topics": [
+        "claude-code",
+        "context-engineering",
+        "meta-prompting",
+        "spec-driven-development"
+      ],
+      "updatedAt": "2026-05-31T17:46:54Z",
+      "archived": true
+    },
+    "snarktank/ralph": {
+      "repo": "snarktank/ralph",
+      "name": "ralph",
+      "owner": "snarktank",
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
+      "stars": 22301,
+      "forks": 2121,
+      "language": "TypeScript",
+      "url": "https://github.com/snarktank/ralph",
+      "avatar": "https://avatars.githubusercontent.com/u/152063952?v=4",
+      "topics": [],
+      "updatedAt": "2026-02-02T01:46:21Z",
+      "archived": false
+    },
+    "magnitudedev/magnitude": {
+      "repo": "magnitudedev/magnitude",
+      "name": "magnitude",
+      "owner": "magnitudedev",
+      "description": "Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.",
+      "stars": 7915,
+      "forks": 574,
+      "language": "Rust",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "avatar": "https://avatars.githubusercontent.com/u/199500616?v=4",
+      "topics": [],
+      "updatedAt": "2026-11-19T21:22:44Z",
+      "archived": false
+    },
+    "milind-soni/openmausbot": {
+      "repo": "milind-soni/OpenMausBot",
+      "name": "OpenMausBot",
+      "owner": "milind-soni",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": 25780,
+      "forks": 3652,
+      "language": "TypeScript",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "avatar": "https://avatars.githubusercontent.com/u/46266943?v=4",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "computer-use"
+      ],
+      "updatedAt": "2026-11-19T21:29:55Z",
+      "archived": false
+    },
+    "langflow-ai/langflow": {
+      "repo": "langflow-ai/langflow",
+      "name": "langflow",
+      "owner": "langflow-ai",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 156781,
+      "forks": 10434,
+      "language": "Python",
+      "url": "https://github.com/langflow-ai/langflow",
+      "avatar": "https://avatars.githubusercontent.com/u/85702467?v=4",
+      "topics": [
+        "agents",
+        "chatgpt",
+        "generative-ai",
+        "large-language-models"
+      ],
+      "updatedAt": "2026-11-19T20:28:36Z",
+      "archived": false
+    },
+    "punkpeye/awesome-mcp-servers": {
+      "repo": "punkpeye/awesome-mcp-servers",
+      "name": "awesome-mcp-servers",
+      "owner": "punkpeye",
+      "description": "A collection of MCP servers.",
+      "stars": 98246,
+      "forks": 20438,
+      "language": null,
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "avatar": "https://avatars.githubusercontent.com/u/108313943?v=4",
+      "topics": [
+        "ai",
+        "mcp"
+      ],
+      "updatedAt": "2026-11-17T05:21:40Z",
+      "archived": false
+    },
+    "rlaope/oh-my-hermes": {
+      "repo": "rlaope/oh-my-hermes",
+      "name": "oh-my-hermes",
+      "owner": "rlaope",
+      "description": "⚚ The ultrawork agent with AI coworkers wired into you",
+      "stars": 5785,
+      "forks": 470,
+      "language": "Python",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "avatar": "https://avatars.githubusercontent.com/u/105429536?v=4",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-tools"
+      ],
+      "updatedAt": "2026-11-19T21:25:44Z",
+      "archived": false
+    },
+    "itgoyo/hermes-skills": {
+      "repo": "itgoyo/hermes-skills",
+      "name": "hermes-skills",
+      "owner": "itgoyo",
+      "description": "310+ Hermes Agent Skills — reusable AI agent workflows for coding, marketing, design, finance, MLOps and more",
+      "stars": 81,
+      "forks": 14,
+      "language": "TeX",
+      "url": "https://github.com/itgoyo/hermes-skills",
+      "avatar": "https://avatars.githubusercontent.com/u/23348551?v=4",
+      "topics": [],
+      "updatedAt": "2026-04-22T06:22:53Z",
+      "archived": false
+    },
+    "zeropointrepo/awesome-hermes-skills": {
+      "repo": "ZeroPointRepo/awesome-hermes-skills",
+      "name": "awesome-hermes-skills",
+      "owner": "ZeroPointRepo",
+      "description": "Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent.",
+      "stars": 687,
+      "forks": 196,
+      "language": null,
+      "url": "https://github.com/ZeroPointRepo/awesome-hermes-skills",
+      "avatar": "https://avatars.githubusercontent.com/u/246261736?v=4",
+      "topics": [
+        "agent-plugins",
+        "agent-skills",
+        "ai-agents",
+        "awesome"
+      ],
+      "updatedAt": "2026-11-02T07:17:30Z",
+      "archived": false
+    },
+    "wondelai/skills": {
+      "repo": "wondelai/skills",
+      "name": "skills",
+      "owner": "wondelai",
+      "description": "Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.",
+      "stars": 2741,
+      "forks": 266,
+      "language": "Shell",
+      "url": "https://github.com/wondelai/skills",
+      "avatar": "https://avatars.githubusercontent.com/u/138923546?v=4",
+      "topics": [
+        "agent-skills",
+        "ai-skills",
+        "business",
+        "claude-code"
+      ],
+      "updatedAt": "2026-11-13T13:37:16Z",
+      "archived": false
+    },
+    "anil-matcha/suparagent": {
+      "repo": "Anil-matcha/suparagent",
+      "name": "suparagent",
+      "owner": "Anil-matcha",
+      "description": "Open-source, self-hosted alternative to Grok Bot, Claude Duet, OpenAI Dots, Meta Muse, Instinct, Manus Cue: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act.",
+      "stars": 7123,
+      "forks": 928,
+      "language": "Python",
+      "url": "https://github.com/Anil-matcha/suparagent",
+      "avatar": "https://avatars.githubusercontent.com/u/4326215?v=4",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "ai-assistant",
+        "ai-coworker"
+      ],
+      "updatedAt": "2026-11-19T14:48:51Z",
+      "archived": false
+    },
+    "gabrielelozupone/kokon": {
+      "repo": "GabrieleLozupone/kokon",
+      "name": "kokon",
+      "owner": "GabrieleLozupone",
+      "description": "Edit photos by describing the change, on your own GPU. A free, open-source alternative to Nano Banana and ChatGPT image editing: photos stay on your computer, no daily limit. One installer for Windows, Mac and Linux sets up the best open model (Qwen-Image 2.1). MCP server for AI agents.",
+      "stars": 447,
+      "forks": 53,
+      "language": "Rust",
+      "url": "https://github.com/GabrieleLozupone/kokon",
+      "avatar": "https://avatars.githubusercontent.com/u/54721912?v=4",
+      "topics": [
+        "ai-photo-editor",
+        "comfyui-alternative",
+        "generative-fill",
+        "image-editing"
+      ],
+      "updatedAt": "2026-11-16T12:31:20Z",
+      "archived": false
+    },
+    "scrollmark/socialgpt-mcp": {
+      "repo": "scrollmark/socialgpt-mcp",
+      "name": "socialgpt-mcp",
+      "owner": "scrollmark",
+      "description": "Connect SocialGPT to Claude, ChatGPT, Cursor, and any MCP-compatible AI agent.",
+      "stars": 10,
+      "forks": 1,
+      "language": "Python",
+      "url": "https://github.com/scrollmark/socialgpt-mcp",
+      "avatar": "https://avatars.githubusercontent.com/u/115435064?v=4",
+      "topics": [
+        "ai-agents",
+        "analytics",
+        "chatgpt",
+        "claude"
+      ],
+      "updatedAt": "2026-09-28T17:31:08Z",
+      "archived": false
+    },
+    "unslothai/unsloth": {
+      "repo": "unslothai/unsloth",
+      "name": "unsloth",
+      "owner": "unslothai",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+      "stars": 79791,
+      "forks": 7450,
+      "language": "Python",
+      "url": "https://github.com/unslothai/unsloth",
+      "avatar": "https://avatars.githubusercontent.com/u/150920049?v=4",
+      "topics": [
+        "agent",
+        "ai",
+        "chatgpt",
+        "deepseek"
+      ],
+      "updatedAt": "2026-11-19T21:30:09Z",
+      "archived": false
+    },
+    "ggml-org/llama.cpp": {
+      "repo": "ggml-org/llama.cpp",
+      "name": "llama.cpp",
+      "owner": "ggml-org",
+      "description": "LLM inference in C/C++",
+      "stars": 135742,
+      "forks": 25805,
+      "language": "C++",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "avatar": "https://avatars.githubusercontent.com/u/134263123?v=4",
+      "topics": [
+        "ggml"
+      ],
+      "updatedAt": "2026-11-19T21:16:33Z",
+      "archived": false
+    },
+    "ollama/ollama": {
+      "repo": "ollama/ollama",
+      "name": "ollama",
+      "owner": "ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "stars": 187660,
+      "forks": 19174,
+      "language": "Go",
+      "url": "https://github.com/ollama/ollama",
+      "avatar": "https://avatars.githubusercontent.com/u/151674099?v=4",
+      "topics": [
+        "deepseek",
+        "gemma",
+        "glm",
+        "go"
+      ],
+      "updatedAt": "2026-11-18T22:53:05Z",
+      "archived": false
+    },
+    "a-ghorbani/pocketpal-ai": {
+      "repo": "a-ghorbani/pocketpal-ai",
+      "name": "pocketpal-ai",
+      "owner": "a-ghorbani",
+      "description": "An app that brings language models directly to your phone.",
+      "stars": 9605,
+      "forks": 1154,
+      "language": "TypeScript",
+      "url": "https://github.com/a-ghorbani/pocketpal-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/11278140?v=4",
+      "topics": [],
+      "updatedAt": "2026-11-19T10:16:52Z",
+      "archived": false
+    },
+    "mintplex-labs/anything-llm": {
+      "repo": "Mintplex-Labs/anything-llm",
+      "name": "anything-llm",
+      "owner": "Mintplex-Labs",
+      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+      "stars": 68438,
+      "forks": 7735,
+      "language": "JavaScript",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "avatar": "https://avatars.githubusercontent.com/u/134426827?v=4",
+      "topics": [
+        "agent-computer",
+        "agent-harness",
+        "agent-orchestration",
+        "agentic-ai"
+      ],
+      "updatedAt": "2026-11-19T21:25:20Z",
+      "archived": false
+    },
+    "fareedkhan-dev/kimi-k3-in-c": {
+      "repo": "FareedKhan-dev/kimi-k3-in-c",
+      "name": "kimi-k3-in-c",
+      "owner": "FareedKhan-dev",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "stars": 12465,
+      "forks": 1931,
+      "language": "C",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "avatar": "https://avatars.githubusercontent.com/u/63067900?v=4",
+      "topics": [
+        "avx2",
+        "c99",
+        "cpu-inference",
+        "deep-learning"
+      ],
+      "updatedAt": "2026-11-16T10:23:21Z",
+      "archived": false
+    },
+    "ggml-org/whisper.cpp": {
+      "repo": "ggml-org/whisper.cpp",
+      "name": "whisper.cpp",
+      "owner": "ggml-org",
+      "description": "Port of OpenAI's Whisper model in C/C++",
+      "stars": 55340,
+      "forks": 6331,
+      "language": "C++",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "avatar": "https://avatars.githubusercontent.com/u/134263123?v=4",
+      "topics": [
+        "inference",
+        "openai",
+        "speech-recognition",
+        "speech-to-text"
+      ],
+      "updatedAt": "2026-11-19T14:27:57Z",
+      "archived": false
+    },
+    "openai/whisper": {
+      "repo": "openai/whisper",
+      "name": "whisper",
+      "owner": "openai",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "stars": 113114,
+      "forks": 13718,
+      "language": "Python",
+      "url": "https://github.com/openai/whisper",
+      "avatar": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "topics": [],
+      "updatedAt": "2026-08-31T17:19:19Z",
+      "archived": false
+    },
+    "stability-ai/stable-audio-tools": {
+      "repo": "Stability-AI/stable-audio-tools",
+      "name": "stable-audio-tools",
+      "owner": "Stability-AI",
+      "description": "Generative models for conditional audio generation",
+      "stars": 3919,
+      "forks": 491,
+      "language": "Python",
+      "url": "https://github.com/Stability-AI/stable-audio-tools",
+      "avatar": "https://avatars.githubusercontent.com/u/100950301?v=4",
+      "topics": [],
+      "updatedAt": "2026-11-01T04:15:33Z",
+      "archived": false
+    },
+    "facebookresearch/audiocraft": {
+      "repo": "facebookresearch/audiocraft",
+      "name": "audiocraft",
+      "owner": "facebookresearch",
+      "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",
+      "stars": 23926,
+      "forks": 2717,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/facebookresearch/audiocraft",
+      "avatar": "https://avatars.githubusercontent.com/u/16943930?v=4",
+      "topics": [],
+      "updatedAt": "2026-03-03T21:50:32Z",
+      "archived": false
+    },
+    "hkchengrex/mmaudio": {
+      "repo": "hkchengrex/MMAudio",
+      "name": "MMAudio",
+      "owner": "hkchengrex",
+      "description": "[CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis",
+      "stars": 2324,
+      "forks": 272,
+      "language": "Python",
+      "url": "https://github.com/hkchengrex/MMAudio",
+      "avatar": "https://avatars.githubusercontent.com/u/7107196?v=4",
+      "topics": [
+        "audio",
+        "audio-synthesis",
+        "computer-vision",
+        "deep-learning"
+      ],
+      "updatedAt": "2026-02-23T06:09:19Z",
+      "archived": false
+    },
+    "comfy-org/comfyui": {
+      "repo": "Comfy-Org/ComfyUI",
+      "name": "ComfyUI",
+      "owner": "Comfy-Org",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 147666,
+      "forks": 17661,
+      "language": "Python",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "avatar": "https://avatars.githubusercontent.com/u/166579949?v=4",
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python"
+      ],
+      "updatedAt": "2026-11-19T20:41:53Z",
+      "archived": false
+    },
+    "lightricks/ltx-video": {
+      "repo": "Lightricks/LTX-Video",
+      "name": "LTX-Video",
+      "owner": "Lightricks",
+      "description": "Official repository for LTX-Video",
+      "stars": 11441,
+      "forks": 1252,
+      "language": "Python",
+      "url": "https://github.com/Lightricks/LTX-Video",
+      "avatar": "https://avatars.githubusercontent.com/u/3170348?v=4",
+      "topics": [
+        "diffusion-models",
+        "dit",
+        "image-to-video",
+        "image-to-video-generation"
+      ],
+      "updatedAt": "2026-11-02T19:25:43Z",
+      "archived": false
+    },
+    "lightricks/ltx-desktop": {
+      "repo": "Lightricks/LTX-Desktop",
+      "name": "LTX-Desktop",
+      "owner": "Lightricks",
+      "description": "An open-source desktop app for generating videos with LTX models",
+      "stars": 2302,
+      "forks": 462,
+      "language": "Python",
+      "url": "https://github.com/Lightricks/LTX-Desktop",
+      "avatar": "https://avatars.githubusercontent.com/u/3170348?v=4",
+      "topics": [
+        "generative-ai",
+        "ltx",
+        "ltx-2",
+        "non-linear-editing"
+      ],
+      "updatedAt": "2026-11-11T07:09:03Z",
+      "archived": false
+    },
+    "wan-video/wan2.1": {
+      "repo": "Wan-Video/Wan2.1",
+      "name": "Wan2.1",
+      "owner": "Wan-Video",
+      "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
+      "stars": 17466,
+      "forks": 4083,
+      "language": "Python",
+      "url": "https://github.com/Wan-Video/Wan2.1",
+      "avatar": "https://avatars.githubusercontent.com/u/200620180?v=4",
+      "topics": [
+        "aigc",
+        "videogeneration"
+      ],
+      "updatedAt": "2026-03-05T09:38:07Z",
+      "archived": false
+    },
+    "wan-video/wan2.2": {
+      "repo": "Wan-Video/Wan2.2",
+      "name": "Wan2.2",
+      "owner": "Wan-Video",
+      "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
+      "stars": 18779,
+      "forks": 2525,
+      "language": "Python",
+      "url": "https://github.com/Wan-Video/Wan2.2",
+      "avatar": "https://avatars.githubusercontent.com/u/200620180?v=4",
+      "topics": [
+        "aigc",
+        "video-generation"
+      ],
+      "updatedAt": "2026-09-21T06:16:22Z",
+      "archived": false
+    },
+    "rayventura/shortgpt": {
+      "repo": "RayVentura/ShortGPT",
+      "name": "ShortGPT",
+      "owner": "RayVentura",
+      "description": "🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation",
+      "stars": 8185,
+      "forks": 1186,
+      "language": "Python",
+      "url": "https://github.com/RayVentura/ShortGPT",
+      "avatar": "https://avatars.githubusercontent.com/u/121462835?v=4",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "automation",
+        "autonomous-agents"
+      ],
+      "updatedAt": "2025-02-10T19:33:18Z",
+      "archived": false
+    },
+    "harry0703/moneyprinterturbo": {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "name": "MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 144702,
+      "forks": 23264,
+      "language": "Python",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "avatar": "https://avatars.githubusercontent.com/u/4928832?v=4",
+      "topics": [
+        "ai-video-generator",
+        "content-creation",
+        "ffmpeg",
+        "instagram-reels"
+      ],
+      "updatedAt": "2026-11-19T11:20:13Z",
+      "archived": false
+    },
+    "arcreel/arcreel": {
+      "repo": "ArcReel/ArcReel",
+      "name": "ArcReel",
+      "owner": "ArcReel",
+      "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
+      "stars": 6660,
+      "forks": 1330,
+      "language": "Python",
+      "url": "https://github.com/ArcReel/ArcReel",
+      "avatar": "https://avatars.githubusercontent.com/u/260027147?v=4",
+      "topics": [
+        "agentic-workflow",
+        "ai-agent",
+        "ai-animation",
+        "ai-video-generator"
+      ],
+      "updatedAt": "2026-11-19T15:49:07Z",
+      "archived": false
+    },
+    "google-ai-edge/mediapipe": {
+      "repo": "google-ai-edge/mediapipe",
+      "name": "mediapipe",
+      "owner": "google-ai-edge",
+      "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+      "stars": 37742,
+      "forks": 6235,
+      "language": "C++",
+      "url": "https://github.com/google-ai-edge/mediapipe",
+      "avatar": "https://avatars.githubusercontent.com/u/150697620?v=4",
+      "topics": [
+        "android",
+        "audio-processing",
+        "c-plus-plus",
+        "calculator"
+      ],
+      "updatedAt": "2026-11-19T20:48:36Z",
+      "archived": false
+    },
+    "jo-inc/camofox-browser": {
+      "repo": "jo-inc/camofox-browser",
+      "name": "camofox-browser",
+      "owner": "jo-inc",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "stars": 12411,
+      "forks": 1266,
+      "language": "JavaScript",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "avatar": "https://avatars.githubusercontent.com/u/226147249?v=4",
+      "topics": [
+        "ai-agent",
+        "anti-bot",
+        "antidetect-browser",
+        "automation"
+      ],
+      "updatedAt": "2026-11-10T16:46:12Z",
+      "archived": false
+    },
+    "rubenhassid1/remake": {
+      "repo": "rubenhassid1/remake",
+      "name": "remake",
+      "owner": "rubenhassid1",
+      "description": "Remake any website pixel for pixel with Claude Code, then make it yours.",
+      "stars": 378,
+      "forks": 75,
+      "language": "JavaScript",
+      "url": "https://github.com/rubenhassid1/remake",
+      "avatar": "https://avatars.githubusercontent.com/u/125911358?v=4",
+      "topics": [
+        "claude-code",
+        "claude-code-plugin",
+        "website-cloner"
+      ],
+      "updatedAt": "2026-11-16T10:12:17Z",
+      "archived": false
+    },
+    "genymobile/scrcpy": {
+      "repo": "Genymobile/scrcpy",
+      "name": "scrcpy",
+      "owner": "Genymobile",
+      "description": "Display and control your Android device",
+      "stars": 155226,
+      "forks": 14255,
+      "language": "C",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "avatar": "https://avatars.githubusercontent.com/u/3427627?v=4",
+      "topics": [
+        "android",
+        "c",
+        "ffmpeg",
+        "genyteam-system"
+      ],
+      "updatedAt": "2026-11-19T20:04:00Z",
+      "archived": false
+    },
+    "barry-ran/qtscrcpy": {
+      "repo": "barry-ran/QtScrcpy",
+      "name": "QtScrcpy",
+      "owner": "barry-ran",
+      "description": "Android real-time display control software",
+      "stars": 32951,
+      "forks": 3888,
+      "language": "C++",
+      "url": "https://github.com/barry-ran/QtScrcpy",
+      "avatar": "https://avatars.githubusercontent.com/u/18702692?v=4",
+      "topics": [
+        "android",
+        "qt"
+      ],
+      "updatedAt": "2026-10-15T06:25:19Z",
+      "archived": false
+    },
+    "rustdesk/rustdesk": {
+      "repo": "rustdesk/rustdesk",
+      "name": "rustdesk",
+      "owner": "rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "stars": 130278,
+      "forks": 20948,
+      "language": "Rust",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "avatar": "https://avatars.githubusercontent.com/u/71636191?v=4",
+      "topics": [
+        "android",
+        "anydesk",
+        "dart",
+        "flatpak"
+      ],
+      "updatedAt": "2026-11-19T12:35:50Z",
+      "archived": false
+    },
+    "kde/kdeconnect-android": {
+      "repo": "KDE/kdeconnect-android",
+      "name": "kdeconnect-android",
+      "owner": "KDE",
+      "description": "Native Android port of the KDE Connect Qt app",
+      "stars": 1518,
+      "forks": 267,
+      "language": "Kotlin",
+      "url": "https://github.com/KDE/kdeconnect-android",
+      "avatar": "https://avatars.githubusercontent.com/u/14312869?v=4",
+      "topics": [],
+      "updatedAt": "2026-11-19T02:43:48Z",
+      "archived": false
+    },
+    "localsend/localsend": {
+      "repo": "localsend/localsend",
+      "name": "localsend",
+      "owner": "localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "stars": 99782,
+      "forks": 5734,
+      "language": "Dart",
+      "url": "https://github.com/localsend/localsend",
+      "avatar": "https://avatars.githubusercontent.com/u/120677616?v=4",
+      "topics": [
+        "dart",
+        "file-sharing",
+        "flutter",
+        "flutter-apps"
+      ],
+      "updatedAt": "2026-11-19T03:00:57Z",
+      "archived": false
+    },
+    "topjohnwu/magisk": {
+      "repo": "topjohnwu/Magisk",
+      "name": "Magisk",
+      "owner": "topjohnwu",
+      "description": "The Magic Mask for Android",
+      "stars": 64130,
+      "forks": 19436,
+      "language": "Kotlin",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "avatar": "https://avatars.githubusercontent.com/u/7337301?v=4",
+      "topics": [],
+      "updatedAt": "2026-11-18T10:17:51Z",
+      "archived": false
+    },
+    "rikkaapps/shizuku": {
+      "repo": "RikkaApps/Shizuku",
+      "name": "Shizuku",
+      "owner": "RikkaApps",
+      "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+      "stars": 34108,
+      "forks": 3724,
+      "language": "Kotlin",
+      "url": "https://github.com/RikkaApps/Shizuku",
+      "avatar": "https://avatars.githubusercontent.com/u/31959043?v=4",
+      "topics": [],
+      "updatedAt": "2025-06-18T04:21:02Z",
+      "archived": false
+    },
+    "termux/termux-app": {
+      "repo": "termux/termux-app",
+      "name": "termux-app",
+      "owner": "termux",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "stars": 65224,
+      "forks": 8370,
+      "language": "Java",
+      "url": "https://github.com/termux/termux-app",
+      "avatar": "https://avatars.githubusercontent.com/u/8104776?v=4",
+      "topics": [
+        "android",
+        "hacktoberfest",
+        "linux",
+        "terminal"
+      ],
+      "updatedAt": "2026-11-05T09:38:22Z",
+      "archived": false
+    },
+    "gkd-kit/gkd": {
+      "repo": "gkd-kit/gkd",
+      "name": "gkd",
+      "owner": "gkd-kit",
+      "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+      "stars": 45067,
+      "forks": 2143,
+      "language": "Kotlin",
+      "url": "https://github.com/gkd-kit/gkd",
+      "avatar": "https://avatars.githubusercontent.com/u/138121201?v=4",
+      "topics": [
+        "accessibility",
+        "android",
+        "auto",
+        "click"
+      ],
+      "updatedAt": "2026-11-13T07:36:02Z",
+      "archived": false
+    },
+    "revanced/revanced-manager": {
+      "repo": "ReVanced/revanced-manager",
+      "name": "revanced-manager",
+      "owner": "ReVanced",
+      "description": "💊 Application to use ReVanced on Android ",
+      "stars": 30212,
+      "forks": 1192,
+      "language": "Kotlin",
+      "url": "https://github.com/ReVanced/revanced-manager",
+      "avatar": "https://avatars.githubusercontent.com/u/101597779?v=4",
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "manager",
+        "modding"
+      ],
+      "updatedAt": "2026-07-29T18:18:23Z",
+      "archived": false
+    },
+    "farmerbb/taskbar": {
+      "repo": "farmerbb/Taskbar",
+      "name": "Taskbar",
+      "owner": "farmerbb",
+      "description": "PC-style productivity for Android",
+      "stars": 1302,
+      "forks": 191,
+      "language": "Java",
+      "url": "https://github.com/farmerbb/Taskbar",
+      "avatar": "https://avatars.githubusercontent.com/u/6822476?v=4",
+      "topics": [
+        "android",
+        "freeform-windows",
+        "nougat",
+        "taskbar"
+      ],
+      "updatedAt": "2024-11-21T15:50:08Z",
+      "archived": false
+    },
+    "wstxda/toolkit-tiles": {
+      "repo": "WSTxda/Toolkit-Tiles",
+      "name": "Toolkit-Tiles",
+      "owner": "WSTxda",
+      "description": "A collection of lightweight tools available as Android Quick Settings tiles.",
+      "stars": 779,
+      "forks": 29,
+      "language": "Kotlin",
+      "url": "https://github.com/WSTxda/Toolkit-Tiles",
+      "avatar": "https://avatars.githubusercontent.com/u/37253994?v=4",
+      "topics": [
+        "android",
+        "bubblelevel",
+        "caffeine",
+        "compass"
+      ],
+      "updatedAt": "2026-11-13T16:02:27Z",
+      "archived": false
+    },
+    "2dust/v2rayng": {
+      "repo": "2dust/v2rayNG",
+      "name": "v2rayNG",
+      "owner": "2dust",
+      "description": "A V2Ray client for Android, support Xray core and v2fly core",
+      "stars": 66190,
+      "forks": 8701,
+      "language": "Kotlin",
+      "url": "https://github.com/2dust/v2rayNG",
+      "avatar": "https://avatars.githubusercontent.com/u/31833384?v=4",
+      "topics": [
+        "android",
+        "proxy",
+        "shadowsocks",
+        "socks5"
+      ],
+      "updatedAt": "2026-11-18T06:17:53Z",
+      "archived": false
+    },
+    "shadowsocks/shadowsocks-android": {
+      "repo": "shadowsocks/shadowsocks-android",
+      "name": "shadowsocks-android",
+      "owner": "shadowsocks",
+      "description": "A shadowsocks client for Android",
+      "stars": 36843,
+      "forks": 11386,
+      "language": "Kotlin",
+      "url": "https://github.com/shadowsocks/shadowsocks-android",
+      "avatar": "https://avatars.githubusercontent.com/u/3006190?v=4",
+      "topics": [
+        "android",
+        "shadowsocks"
+      ],
+      "updatedAt": "2026-08-09T11:06:54Z",
+      "archived": false
+    },
+    "m66b/netguard": {
+      "repo": "M66B/NetGuard",
+      "name": "NetGuard",
+      "owner": "M66B",
+      "description": "A simple way to block access to the internet per app",
+      "stars": 4007,
+      "forks": 377,
+      "language": "Java",
+      "url": "https://github.com/M66B/NetGuard",
+      "avatar": "https://avatars.githubusercontent.com/u/259573?v=4",
+      "topics": [],
+      "updatedAt": "2026-08-01T21:29:40Z",
+      "archived": false
+    },
+    "celzero/rethink-app": {
+      "repo": "celzero/rethink-app",
+      "name": "rethink-app",
+      "owner": "celzero",
+      "description": "DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.",
+      "stars": 5941,
+      "forks": 384,
+      "language": "Kotlin",
+      "url": "https://github.com/celzero/rethink-app",
+      "avatar": "https://avatars.githubusercontent.com/u/68689239?v=4",
+      "topics": [
+        "android",
+        "android-app",
+        "android-application",
+        "android-firewall"
+      ],
+      "updatedAt": "2026-11-19T16:28:31Z",
+      "archived": false
+    },
+    "teamnewpipe/newpipe": {
+      "repo": "TeamNewPipe/NewPipe",
+      "name": "NewPipe",
+      "owner": "TeamNewPipe",
+      "description": "A libre lightweight streaming front-end for Android.",
+      "stars": 40830,
+      "forks": 4013,
+      "language": "Java",
+      "url": "https://github.com/TeamNewPipe/NewPipe",
+      "avatar": "https://avatars.githubusercontent.com/u/22159318?v=4",
+      "topics": [
+        "4k",
+        "android",
+        "bandcamp",
+        "download-videos"
+      ],
+      "updatedAt": "2026-11-19T09:50:24Z",
+      "archived": false
+    },
+    "yuliskov/smarttube": {
+      "repo": "yuliskov/SmartTube",
+      "name": "SmartTube",
+      "owner": "yuliskov",
+      "description": "Browse media content with your own rules on Android TV",
+      "stars": 36472,
+      "forks": 2340,
+      "language": "Java",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "avatar": "https://avatars.githubusercontent.com/u/5897464?v=4",
+      "topics": [
+        "android",
+        "android-tv",
+        "android-tv-box",
+        "java"
+      ],
+      "updatedAt": "2026-11-19T13:56:01Z",
+      "archived": false
+    },
+    "junkfood02/seal": {
+      "repo": "JunkFood02/Seal",
+      "name": "Seal",
+      "owner": "JunkFood02",
+      "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
+      "stars": 30840,
+      "forks": 1575,
+      "language": "Kotlin",
+      "url": "https://github.com/JunkFood02/Seal",
+      "avatar": "https://avatars.githubusercontent.com/u/69683722?v=4",
+      "topics": [
+        "android",
+        "f-droid",
+        "jetpack-compose",
+        "kotlin"
+      ],
+      "updatedAt": "2026-09-25T15:35:51Z",
+      "archived": false
+    },
+    "team-spotube/spotube": {
+      "repo": "team-spotube/spotube",
+      "name": "spotube",
+      "owner": "team-spotube",
+      "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+      "stars": 50837,
+      "forks": 2410,
+      "language": "Kotlin",
+      "url": "https://github.com/team-spotube/spotube",
+      "avatar": "https://avatars.githubusercontent.com/u/263316120?v=4",
+      "topics": [
+        "android",
+        "android-client",
+        "android-music-player",
+        "desktop-client"
+      ],
+      "updatedAt": "2026-11-19T11:06:27Z",
+      "archived": false
+    },
+    "koreader/koreader": {
+      "repo": "koreader/koreader",
+      "name": "koreader",
+      "owner": "koreader",
+      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+      "stars": 31204,
+      "forks": 2046,
+      "language": "Lua",
+      "url": "https://github.com/koreader/koreader",
+      "avatar": "https://avatars.githubusercontent.com/u/3957564?v=4",
+      "topics": [
+        "cbz",
+        "djvu",
+        "djvu-reflow",
+        "ebook"
+      ],
+      "updatedAt": "2026-11-19T20:52:45Z",
+      "archived": false
+    },
+    "gedoor/legado": {
+      "repo": "gedoor/legado",
+      "name": "legado",
+      "owner": "gedoor",
+      "description": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+      "stars": 47262,
+      "forks": 5620,
+      "language": "Kotlin",
+      "url": "https://github.com/gedoor/legado",
+      "avatar": "https://avatars.githubusercontent.com/u/22701807?v=4",
+      "topics": [],
+      "updatedAt": "2026-05-27T08:41:54Z",
+      "archived": false
+    },
+    "laurent22/joplin": {
+      "repo": "laurent22/joplin",
+      "name": "joplin",
+      "owner": "laurent22",
+      "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+      "stars": 57256,
+      "forks": 6463,
+      "language": "TypeScript",
+      "url": "https://github.com/laurent22/joplin",
+      "avatar": "https://avatars.githubusercontent.com/u/1285584?v=4",
+      "topics": [
+        "android",
+        "dropbox",
+        "electron",
+        "enex-files"
+      ],
+      "updatedAt": "2026-11-19T20:19:15Z",
+      "archived": false
+    },
+    "syncthing/syncthing-android": {
+      "repo": "syncthing/syncthing-android",
+      "name": "syncthing-android",
+      "owner": "syncthing",
+      "description": "Wrapper of syncthing for Android.",
+      "stars": 4294,
+      "forks": 514,
+      "language": "Java",
+      "url": "https://github.com/syncthing/syncthing-android",
+      "avatar": "https://avatars.githubusercontent.com/u/7628018?v=4",
+      "topics": [
+        "android",
+        "java",
+        "p2p",
+        "peer-to-peer"
+      ],
+      "updatedAt": "2024-12-03T21:13:47Z",
+      "archived": true
+    },
+    "freeyourgadget/gadgetbridge": {
+      "repo": "Freeyourgadget/Gadgetbridge",
+      "name": "Gadgetbridge",
+      "owner": "Freeyourgadget",
+      "description": "We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pebble, Mi Band, Liveview, HPlus and more.",
+      "stars": 4608,
+      "forks": 698,
+      "language": "Java",
+      "url": "https://github.com/Freeyourgadget/Gadgetbridge",
+      "avatar": "https://avatars.githubusercontent.com/u/10392806?v=4",
+      "topics": [
+        "amazfit",
+        "android-application",
+        "hplus",
+        "mi-band"
+      ],
+      "updatedAt": "2024-12-23T17:24:07Z",
+      "archived": true
+    },
+    "librepods-org/librepods": {
+      "repo": "librepods-org/librepods",
+      "name": "librepods",
+      "owner": "librepods-org",
+      "description": "AirPods liberated from Apple's ecosystem.",
+      "stars": 30888,
+      "forks": 1889,
+      "language": "Kotlin",
+      "url": "https://github.com/librepods-org/librepods",
+      "avatar": "https://avatars.githubusercontent.com/u/296429189?v=4",
+      "topics": [
+        "accessiblity",
+        "airpods",
+        "android",
+        "battery-monitor"
+      ],
+      "updatedAt": "2026-11-09T11:31:52Z",
+      "archived": false
+    },
+    "jaakkopasanen/autoeq": {
+      "repo": "jaakkopasanen/AutoEq",
+      "name": "AutoEq",
+      "owner": "jaakkopasanen",
+      "description": "Automatic headphone equalization from frequency responses",
+      "stars": 16471,
+      "forks": 2573,
+      "language": "Python",
+      "url": "https://github.com/jaakkopasanen/AutoEq",
+      "avatar": "https://avatars.githubusercontent.com/u/8393524?v=4",
+      "topics": [],
+      "updatedAt": "2026-11-05T01:42:57Z",
+      "archived": false
+    },
+    "dietrichgebert/ponytail": {
+      "repo": "DietrichGebert/ponytail",
+      "name": "ponytail",
+      "owner": "DietrichGebert",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 194787,
+      "forks": 10975,
+      "language": "JavaScript",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "avatar": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code"
+      ],
+      "updatedAt": "2026-10-29T11:59:31Z",
+      "archived": false
+    },
+    "thtbee/nectarlink": {
+      "repo": "thtbee/nectarlink",
+      "name": "nectarlink",
+      "owner": "thtbee",
+      "description": "Your Android phone and your PC, working as one. Windows and Linux. Local-first, end-to-end encrypted, no account.",
+      "stars": 4990,
+      "forks": 419,
+      "language": "Rust",
+      "url": "https://github.com/thtbee/nectarlink",
+      "avatar": "https://avatars.githubusercontent.com/u/302257494?v=4",
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kde-connect-features",
+        "kotlin"
+      ],
+      "updatedAt": "2026-11-19T19:17:49Z",
+      "archived": false
+    },
+    "googlecolab/google-colab-cli": {
+      "repo": "googlecolab/google-colab-cli",
+      "name": "google-colab-cli",
+      "owner": "googlecolab",
+      "description": "A CLI for interacting with Google Colab runtimes",
+      "stars": 2627,
+      "forks": 381,
+      "language": "Python",
+      "url": "https://github.com/googlecolab/google-colab-cli",
+      "avatar": "https://avatars.githubusercontent.com/u/33467679?v=4",
+      "topics": [],
+      "updatedAt": "2026-11-19T05:42:33Z",
+      "archived": false
+    },
+    "storytold/photocraft": {
+      "repo": "storytold/photocraft",
+      "name": "photocraft",
+      "owner": "storytold",
+      "description": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+      "stars": 80500,
+      "forks": 14190,
+      "language": "Rust",
+      "url": "https://github.com/storytold/photocraft",
+      "avatar": "https://avatars.githubusercontent.com/u/76897702?v=4",
+      "topics": [
+        "art",
+        "image-editing",
+        "image-editing-software",
+        "image-editor"
+      ],
+      "updatedAt": "2026-11-19T21:27:07Z",
+      "archived": false
+    },
+    "immich-app/immich": {
+      "repo": "immich-app/immich",
+      "name": "immich",
+      "owner": "immich-app",
+      "description": "High performance self-hosted photo and video management solution.",
+      "stars": 119664,
+      "forks": 7661,
+      "language": "TypeScript",
+      "url": "https://github.com/immich-app/immich",
+      "avatar": "https://avatars.githubusercontent.com/u/109746326?v=4",
+      "topics": [
+        "backup-tool",
+        "flutter",
+        "google-photos",
+        "google-photos-alternative"
+      ],
+      "updatedAt": "2026-11-19T21:21:54Z",
+      "archived": false
+    },
+    "jellyfin/jellyfin": {
+      "repo": "jellyfin/jellyfin",
+      "name": "jellyfin",
+      "owner": "jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "stars": 59551,
+      "forks": 5835,
+      "language": "C#",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "avatar": "https://avatars.githubusercontent.com/u/45698031?v=4",
+      "topics": [
+        "csharp",
+        "dotnet",
+        "hacktoberfest",
+        "jellyfin"
+      ],
+      "updatedAt": "2026-11-19T20:41:30Z",
+      "archived": false
+    },
+    "anyproto/anytype-ts": {
+      "repo": "anyproto/anytype-ts",
+      "name": "anytype-ts",
+      "owner": "anyproto",
+      "description": "Official Anytype client for MacOS, Linux, and Windows",
+      "stars": 9119,
+      "forks": 607,
+      "language": "TypeScript",
+      "url": "https://github.com/anyproto/anytype-ts",
+      "avatar": "https://avatars.githubusercontent.com/u/128061343?v=4",
+      "topics": [
+        "anytype",
+        "e2ee",
+        "local-first",
+        "offline-first"
+      ],
+      "updatedAt": "2026-11-10T14:08:23Z",
+      "archived": false
+    },
+    "documenso/documenso": {
+      "repo": "documenso/documenso",
+      "name": "documenso",
+      "owner": "documenso",
+      "description": "The Open Source DocuSign Alternative.",
+      "stars": 15839,
+      "forks": 3514,
+      "language": "TypeScript",
+      "url": "https://github.com/documenso/documenso",
+      "avatar": "https://avatars.githubusercontent.com/u/127681099?v=4",
+      "topics": [
+        "digital-signature",
+        "document-signing",
+        "docusign-alternative",
+        "e-signature"
+      ],
+      "updatedAt": "2026-11-19T20:05:58Z",
+      "archived": false
+    },
+    "papermark/papermark": {
+      "repo": "papermark/papermark",
+      "name": "papermark",
+      "owner": "papermark",
+      "description": "Papermark is the open-source DocSend alternative  and secure data rooms with built-in analytics and custom domains.",
+      "stars": 9423,
+      "forks": 1440,
+      "language": "TypeScript",
+      "url": "https://github.com/papermark/papermark",
+      "avatar": "https://avatars.githubusercontent.com/u/145220958?v=4",
+      "topics": [
+        "dataroom",
+        "next-auth",
+        "nextjs",
+        "open-source"
+      ],
+      "updatedAt": "2026-08-28T15:58:25Z",
+      "archived": false
+    },
+    "twentyhq/twenty": {
+      "repo": "twentyhq/twenty",
+      "name": "twenty",
+      "owner": "twentyhq",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "stars": 61216,
+      "forks": 10146,
+      "language": "TypeScript",
+      "url": "https://github.com/twentyhq/twenty",
+      "avatar": "https://avatars.githubusercontent.com/u/119600397?v=4",
+      "topics": [
+        "crm",
+        "crm-system",
+        "customer",
+        "good-first-issue"
+      ],
+      "updatedAt": "2026-11-19T21:12:48Z",
+      "archived": false
+    },
+    "gitroomhq/postiz-app": {
+      "repo": "gitroomhq/postiz-app",
+      "name": "postiz-app",
+      "owner": "gitroomhq",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "stars": 41999,
+      "forks": 8020,
+      "language": "TypeScript",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "avatar": "https://avatars.githubusercontent.com/u/128401275?v=4",
+      "topics": [
+        "nextjs",
+        "open-source",
+        "open-source-social-media-scheduling-tool",
+        "oss"
+      ],
+      "updatedAt": "2026-11-18T13:38:05Z",
+      "archived": false
+    },
+    "elie222/inbox-zero": {
+      "repo": "elie222/inbox-zero",
+      "name": "inbox-zero",
+      "owner": "elie222",
+      "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+      "stars": 13070,
+      "forks": 1678,
+      "language": "TypeScript",
+      "url": "https://github.com/elie222/inbox-zero",
+      "avatar": "https://avatars.githubusercontent.com/u/3090527?v=4",
+      "topics": [
+        "ai",
+        "email",
+        "gmail",
+        "loops"
+      ],
+      "updatedAt": "2026-11-19T13:59:08Z",
+      "archived": false
+    },
+    "tldraw/tldraw": {
+      "repo": "tldraw/tldraw",
+      "name": "tldraw",
+      "owner": "tldraw",
+      "description": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.",
+      "stars": 51497,
+      "forks": 3611,
+      "language": "TypeScript",
+      "url": "https://github.com/tldraw/tldraw",
+      "avatar": "https://avatars.githubusercontent.com/u/86724562?v=4",
+      "topics": [
+        "canvas",
+        "collaboration",
+        "design",
+        "diagram"
+      ],
+      "updatedAt": "2026-11-19T18:27:33Z",
+      "archived": false
+    },
+    "crowdsecurity/crowdsec": {
+      "repo": "crowdsecurity/crowdsec",
+      "name": "crowdsec",
+      "owner": "crowdsecurity",
+      "description": "Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.",
+      "stars": 15701,
+      "forks": 773,
+      "language": "Go",
+      "url": "https://github.com/crowdsecurity/crowdsec",
+      "avatar": "https://avatars.githubusercontent.com/u/63284097?v=4",
+      "topics": [
+        "anti-bot",
+        "blocklist",
+        "bot-detection",
+        "bot-protection"
+      ],
+      "updatedAt": "2026-11-19T12:49:30Z",
+      "archived": false
+    },
+    "andreknieriem/open-headunit": {
+      "repo": "andreknieriem/open-headunit",
+      "name": "open-headunit",
+      "owner": "andreknieriem",
+      "description": "Headunit App for displaying Android Auto",
+      "stars": 3442,
+      "forks": 340,
+      "language": "Kotlin",
+      "url": "https://github.com/andreknieriem/open-headunit",
+      "avatar": "https://avatars.githubusercontent.com/u/4500367?v=4",
+      "topics": [
+        "android",
+        "androidauto",
+        "headunit"
+      ],
+      "updatedAt": "2026-11-19T08:02:15Z",
+      "archived": false
+    },
+    "d4vinci/scrapling": {
+      "repo": "D4Vinci/Scrapling",
+      "name": "Scrapling",
+      "owner": "D4Vinci",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "stars": 104397,
+      "forks": 10913,
+      "language": "Python",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "avatar": "https://avatars.githubusercontent.com/u/20604835?v=4",
+      "topics": [
+        "ai",
+        "ai-scraping",
+        "automation",
+        "crawler"
+      ],
+      "updatedAt": "2026-11-17T09:51:33Z",
+      "archived": false
+    },
+    "alirezamika/autoscraper": {
+      "repo": "alirezamika/autoscraper",
+      "name": "autoscraper",
+      "owner": "alirezamika",
+      "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+      "stars": 8099,
+      "forks": 836,
+      "language": "Python",
+      "url": "https://github.com/alirezamika/autoscraper",
+      "avatar": "https://avatars.githubusercontent.com/u/17881612?v=4",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "automation",
+        "crawler"
+      ],
+      "updatedAt": "2026-07-29T17:17:55Z",
+      "archived": false
+    },
+    "lwthiker/curl-impersonate": {
+      "repo": "lwthiker/curl-impersonate",
+      "name": "curl-impersonate",
+      "owner": "lwthiker",
+      "description": "curl-impersonate: A special build of curl that can impersonate Chrome & Firefox",
+      "stars": 7209,
+      "forks": 616,
+      "language": "Python",
+      "url": "https://github.com/lwthiker/curl-impersonate",
+      "avatar": "https://avatars.githubusercontent.com/u/99899249?v=4",
+      "topics": [
+        "curl",
+        "https",
+        "security",
+        "ssl"
+      ],
+      "updatedAt": "2024-07-18T01:24:37Z",
+      "archived": false
+    },
+    "vercel/next.js": {
+      "repo": "vercel/next.js",
+      "name": "next.js",
+      "owner": "vercel",
+      "description": "The React Framework",
+      "stars": 143596,
+      "forks": 32815,
+      "language": "JavaScript",
+      "url": "https://github.com/vercel/next.js",
+      "avatar": "https://avatars.githubusercontent.com/u/14985020?v=4",
+      "topics": [
+        "blog",
+        "browser",
+        "compiler",
+        "components"
+      ],
+      "updatedAt": "2026-11-19T21:21:09Z",
+      "archived": false
+    },
+    "vercel/vercel": {
+      "repo": "vercel/vercel",
+      "name": "vercel",
+      "owner": "vercel",
+      "description": "Develop. Preview. Ship.",
+      "stars": 16632,
+      "forks": 3920,
+      "language": "TypeScript",
+      "url": "https://github.com/vercel/vercel",
+      "avatar": "https://avatars.githubusercontent.com/u/14985020?v=4",
+      "topics": [
+        "cli",
+        "cloud",
+        "command",
+        "hosting"
+      ],
+      "updatedAt": "2026-11-19T19:45:38Z",
+      "archived": false
+    },
+    "nexu-io/open-design": {
+      "repo": "nexu-io/open-design",
+      "name": "open-design",
+      "owner": "nexu-io",
+      "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
+      "stars": 108508,
+      "forks": 12299,
+      "language": "TypeScript",
+      "url": "https://github.com/nexu-io/open-design",
+      "avatar": "https://avatars.githubusercontent.com/u/263625318?v=4",
+      "topics": [
+        "agent-skills",
+        "ai-design",
+        "byok",
+        "claude-code-for-design"
+      ],
+      "updatedAt": "2026-11-19T19:56:25Z",
+      "archived": false
+    },
+    "espressif/esp-csi": {
+      "repo": "espressif/esp-csi",
+      "name": "esp-csi",
+      "owner": "espressif",
+      "description": "Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection",
+      "stars": 1762,
+      "forks": 277,
+      "language": "Shell",
+      "url": "https://github.com/espressif/esp-csi",
+      "avatar": "https://avatars.githubusercontent.com/u/9460735?v=4",
+      "topics": [],
+      "updatedAt": "2026-04-22T08:07:36Z",
+      "archived": false
+    },
+    "ruvnet/ruview": {
+      "repo": "ruvnet/RuView",
+      "name": "RuView",
+      "owner": "ruvnet",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 104636,
+      "forks": 13597,
+      "language": "Rust",
+      "url": "https://github.com/ruvnet/RuView",
+      "avatar": "https://avatars.githubusercontent.com/u/2934394?v=4",
+      "topics": [
+        "claude",
+        "claude-code",
+        "esp32",
+        "firmware"
+      ],
+      "updatedAt": "2026-11-19T18:13:09Z",
+      "archived": false
+    },
+    "saad-imtiaz/wifi-sense": {
+      "repo": "Saad-Imtiaz/WiFi-Sense",
+      "name": "WiFi-Sense",
+      "owner": "Saad-Imtiaz",
+      "description": "WiFi-Based Person Detection on an ESP32",
+      "stars": 16,
+      "forks": 4,
+      "language": "C++",
+      "url": "https://github.com/Saad-Imtiaz/WiFi-Sense",
+      "avatar": "https://avatars.githubusercontent.com/u/53612215?v=4",
+      "topics": [],
+      "updatedAt": "2026-05-19T15:47:05Z",
+      "archived": false
+    },
+    "joelewis012/csight": {
+      "repo": "joelewis012/CSIght",
+      "name": "CSIght",
+      "owner": "joelewis012",
+      "description": "**WiFi CSI radar for Flipper Zero + ESP32**  Detect motion, presence, and proximity through walls using WiFi Channel State Information — no cameras, no IR, no special sensors.",
+      "stars": 182,
+      "forks": 19,
+      "language": "C",
+      "url": "https://github.com/joelewis012/CSIght",
+      "avatar": "https://avatars.githubusercontent.com/u/206957883?v=4",
+      "topics": [],
+      "updatedAt": "2026-07-12T07:43:22Z",
+      "archived": false
+    },
+    "outputlayer/espectre-sense": {
+      "repo": "outputlayer/espectre-sense",
+      "name": "espectre-sense",
+      "owner": "outputlayer",
+      "description": "ESP32 WiFi CSI room presence detection, movement tracking, vital signs monitoring & sleep analysis — 3-node triangulation with real-time heatmap visualization",
+      "stars": 9,
+      "forks": 1,
+      "language": "Rust",
+      "url": "https://github.com/outputlayer/espectre-sense",
+      "avatar": "https://avatars.githubusercontent.com/u/43842477?v=4",
+      "topics": [
+        "breathing-rate",
+        "csi",
+        "esp32",
+        "esp32-s3"
+      ],
+      "updatedAt": "2026-03-23T02:59:06Z",
+      "archived": false
+    },
+    "thkimketi/csi-sensing": {
+      "repo": "thkimKETI/csi-sensing",
+      "name": "csi-sensing",
+      "owner": "thkimKETI",
+      "description": "Real-time CSI sensing system for multi-device Wi-Fi signal processing, Butterworth-based filtering, and deep learning-based activity & location recognition with visual feedback.",
+      "stars": 14,
+      "forks": 1,
+      "language": "Python",
+      "url": "https://github.com/thkimKETI/csi-sensing",
+      "avatar": "https://avatars.githubusercontent.com/u/132858884?v=4",
+      "topics": [],
+      "updatedAt": "2026-04-01T03:39:35Z",
+      "archived": false
+    },
+    "sindresorhus/awesome": {
+      "repo": "sindresorhus/awesome",
+      "name": "awesome",
+      "owner": "sindresorhus",
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+      "stars": 539480,
+      "forks": 38551,
+      "language": null,
+      "url": "https://github.com/sindresorhus/awesome",
+      "avatar": "https://avatars.githubusercontent.com/u/170270?v=4",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lists",
+        "resources"
+      ],
+      "updatedAt": "2026-09-02T02:10:47Z",
+      "archived": false
+    },
+    "public-apis/public-apis": {
+      "repo": "public-apis/public-apis",
+      "name": "public-apis",
+      "owner": "public-apis",
+      "description": "A collective list of free APIs",
+      "stars": 500297,
+      "forks": 56147,
+      "language": "Python",
+      "url": "https://github.com/public-apis/public-apis",
+      "avatar": "https://avatars.githubusercontent.com/u/51121562?v=4",
+      "topics": [
+        "api",
+        "apis",
+        "dataset",
+        "development"
+      ],
+      "updatedAt": "2026-11-18T19:27:01Z",
+      "archived": false
+    },
+    "ripienaar/free-for-dev": {
+      "repo": "ripienaar/free-for-dev",
+      "name": "free-for-dev",
+      "owner": "ripienaar",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": 143206,
+      "forks": 15421,
+      "language": "HTML",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/82342?v=4",
+      "topics": [
+        "awesome-list",
+        "free-for-developers"
+      ],
+      "updatedAt": "2026-11-19T08:49:39Z",
+      "archived": false
+    },
+    "shubhamsaboo/awesome-llm-apps": {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "name": "awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 145086,
+      "forks": 21368,
+      "language": "Python",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "avatar": "https://avatars.githubusercontent.com/u/31396011?v=4",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "updatedAt": "2026-11-18T05:25:32Z",
+      "archived": false
+    },
+    "all-hands-ai/openhands": {
+      "repo": "OpenHands/OpenHands",
+      "name": "OpenHands",
+      "owner": "OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 93846,
+      "forks": 12563,
+      "language": "TypeScript",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "avatar": "https://avatars.githubusercontent.com/u/225919603?v=4",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai"
+      ],
+      "updatedAt": "2026-11-19T21:26:33Z",
+      "archived": false
+    },
+    "yashab-cyber/opendroid": {
+      "repo": "JMAN730/opendroid",
+      "name": "opendroid",
+      "owner": "JMAN730",
+      "description": "Your Open Autonomous Android Agent — A production-ready, self-planning AI assistant powered by local/remote LLMs and accessibility-driven screen automation.",
+      "stars": 1298,
+      "forks": 201,
+      "language": "Kotlin",
+      "url": "https://github.com/JMAN730/opendroid",
+      "avatar": "https://avatars.githubusercontent.com/u/188234786?v=4",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation"
+      ],
+      "updatedAt": "2026-11-10T19:35:42Z",
+      "archived": false
+    },
+    "comfyanonymous/comfyui": {
+      "repo": "Comfy-Org/ComfyUI",
+      "name": "ComfyUI",
+      "owner": "Comfy-Org",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 147666,
+      "forks": 17661,
+      "language": "Python",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "avatar": "https://avatars.githubusercontent.com/u/166579949?v=4",
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python"
+      ],
+      "updatedAt": "2026-11-19T20:41:53Z",
+      "archived": false
+    },
+    "deepbeepmeep/wan2gp": {
+      "repo": "deepbeepmeep/WanGP",
+      "name": "WanGP",
+      "owner": "deepbeepmeep",
+      "description": "A fast AI Video Generator for the GPU Poor. Supports Minimax H3, LTX-2.3/2.5, Wan 2.1/2.2,  Qwen Image 1/2, Krea 2, Hunyuan Video, LTX  Video and Flux.",
+      "stars": 12041,
+      "forks": 1908,
+      "language": "Python",
+      "url": "https://github.com/deepbeepmeep/WanGP",
+      "avatar": "https://avatars.githubusercontent.com/u/84379123?v=4",
+      "topics": [
+        "ai",
+        "flux",
+        "flux2",
+        "generative-ai"
+      ],
+      "updatedAt": "2026-11-19T18:18:01Z",
+      "archived": false
+    },
+    "tencent/hunyuanvideo": {
+      "repo": "Tencent-Hunyuan/HunyuanVideo",
+      "name": "HunyuanVideo",
+      "owner": "Tencent-Hunyuan",
+      "description": "HunyuanVideo: A Systematic Framework For Large Video Generation Model",
+      "stars": 12806,
+      "forks": 1395,
+      "language": "Python",
+      "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
+      "avatar": "https://avatars.githubusercontent.com/u/210980732?v=4",
+      "topics": [
+        "diffusion-models",
+        "diffusion-transformer",
+        "video-generation"
+      ],
+      "updatedAt": "2026-10-08T08:57:37Z",
+      "archived": false
+    },
+    "thudm/cogvideo": {
+      "repo": "zai-org/CogVideo",
+      "name": "CogVideo",
+      "owner": "zai-org",
+      "description": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+      "stars": 13216,
+      "forks": 1399,
+      "language": "Python",
+      "url": "https://github.com/zai-org/CogVideo",
+      "avatar": "https://avatars.githubusercontent.com/u/223098841?v=4",
+      "topics": [
+        "cogvideox",
+        "image-to-video",
+        "llm",
+        "sora"
+      ],
+      "updatedAt": "2025-11-04T11:19:04Z",
+      "archived": false
+    },
+    "anil-matcha/open-higgsfield-ai": {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "name": "Open-Generative-AI",
+      "owner": "Anil-matcha",
+      "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "stars": 35422,
+      "forks": 6802,
+      "language": "JavaScript",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "avatar": "https://avatars.githubusercontent.com/u/4326215?v=4",
+      "topics": [
+        "ai-image-generation",
+        "ai-video-generation",
+        "fal-ai-alternative",
+        "generative-ai"
+      ],
+      "updatedAt": "2026-11-18T09:10:01Z",
+      "archived": false
+    },
+    "drklo/telegram": {
+      "repo": "TelegramMessenger/Telegram-Android",
+      "name": "Telegram-Android",
+      "owner": "TelegramMessenger",
+      "description": "Telegram for Android source",
+      "stars": 30344,
+      "forks": 10624,
+      "language": "Java",
+      "url": "https://github.com/TelegramMessenger/Telegram-Android",
+      "avatar": "https://avatars.githubusercontent.com/u/22377696?v=4",
+      "topics": [
+        "telegram"
+      ],
+      "updatedAt": "2026-11-12T02:45:28Z",
+      "archived": false
+    },
+    "staacks/phyphox-android": {
+      "repo": "phyphox/phyphox-android",
+      "name": "phyphox-android",
+      "owner": "phyphox",
+      "description": "Physical Phone Experiments",
+      "stars": 669,
+      "forks": 90,
+      "language": "C",
+      "url": "https://github.com/phyphox/phyphox-android",
+      "avatar": "https://avatars.githubusercontent.com/u/84382130?v=4",
+      "topics": [],
+      "updatedAt": "2026-11-19T11:36:11Z",
+      "archived": false
+    }
+  }
+}
