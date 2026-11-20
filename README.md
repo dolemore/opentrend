@@ -1,6 +1,6 @@
 # OpenTrend
 
-Open-source trend dashboard for **www.getmobileclaw.com** — live GitHub
+Open-source trend dashboard for **trends.getmobileclaw.com** — live GitHub
 trending, HuggingFace trending and curated collections, in the Hallmark
 **Dusk** theme (`fog / periwinkle-apricot / glass`).
 
@@ -32,7 +32,7 @@ node scripts/build-i18n.js            # writes data/i18n/*.json (11 languages)
 ```
 
 Static site, deployed by GitHub Pages from `main`. Custom domain
-`www.getmobileclaw.com` via the `CNAME` file.
+`trends.getmobileclaw.com` via the `CNAME` file.
 
 > Scheduled workflows stop after 60 days without repo activity — nudge the
 > workflow (`workflow_dispatch`) if the data goes stale.
