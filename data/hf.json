@@ -1,48 +1,12 @@
 {
-  "generatedAt": "2026-11-21T09:56:57.671Z",
+  "generatedAt": "2026-11-21T17:33:49.711Z",
   "models": [
-    {
-      "id": "thinkingmachines/Inkling-2-Mini",
-      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
-      "likes": 1103,
-      "downloads": 136,
-      "trendingScore": 845,
-      "createdAt": "2026-11-17T00:26:57.000Z",
-      "tags": [
-        "transformers",
-        "safetensors",
-        "inkling2_loop",
-        "text-generation",
-        "conversational",
-        "image-text-to-text"
-      ],
-      "pipeline": "image-text-to-text",
-      "library": "transformers"
-    },
-    {
-      "id": "higurashi-ai/Haru-4B",
-      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
-      "likes": 5711,
-      "downloads": 7323,
-      "trendingScore": 622,
-      "createdAt": "2026-11-12T11:05:59.000Z",
-      "tags": [
-        "safetensors",
-        "haru",
-        "speech",
-        "full-duplex",
-        "speech-to-speech",
-        "audio-to-audio"
-      ],
-      "pipeline": "audio-to-audio",
-      "library": null
-    },
     {
       "id": "harness-hub/Qwen3.8-27B-pi-adapted",
       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-      "likes": 836,
-      "downloads": 1874,
-      "trendingScore": 600,
+      "likes": 898,
+      "downloads": 2383,
+      "trendingScore": 627,
       "createdAt": "2026-11-16T06:52:31.000Z",
       "tags": [
         "peft",
@@ -56,24 +20,47 @@
       "library": "peft"
     },
     {
-      "id": "Sentinel7/h3",
-      "url": "https://huggingface.co/Sentinel7/h3",
-      "likes": 564,
-      "downloads": 0,
-      "trendingScore": 480,
-      "createdAt": "2026-08-06T04:13:52.000Z",
+      "id": "thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "likes": 1684,
+      "downloads": 7944,
+      "trendingScore": 577.5,
+      "createdAt": "2026-11-17T00:26:57.000Z",
       "tags": [
-        "region:us"
+        "transformers",
+        "safetensors",
+        "inkling2_loop",
+        "image-text-to-text",
+        "conversational",
+        "moe"
       ],
-      "pipeline": null,
+      "pipeline": "image-text-to-text",
+      "library": "transformers"
+    },
+    {
+      "id": "unsloth/Inkling-2-Mini-GGUF",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "likes": 499,
+      "downloads": 238152,
+      "trendingScore": 476,
+      "createdAt": "2026-11-20T13:09:48.000Z",
+      "tags": [
+        "gguf",
+        "conversational",
+        "image-text-to-text",
+        "moe",
+        "unsloth",
+        "base_model:thinkingmachines/Inkling-2-Mini"
+      ],
+      "pipeline": "image-text-to-text",
       "library": null
     },
     {
       "id": "tencent/Hy4-flash",
       "url": "https://huggingface.co/tencent/Hy4-flash",
-      "likes": 558,
-      "downloads": 3949,
-      "trendingScore": 361,
+      "likes": 508,
+      "downloads": 5588,
+      "trendingScore": 371,
       "createdAt": "2026-11-17T03:44:46.000Z",
       "tags": [
         "transformers",
@@ -89,9 +76,9 @@
     {
       "id": "Lightricks/LTX-2.5",
       "url": "https://huggingface.co/Lightricks/LTX-2.5",
-      "likes": 12843,
+      "likes": 12895,
       "downloads": 3000544,
-      "trendingScore": 360,
+      "trendingScore": 356,
       "createdAt": "2026-07-23T07:55:24.000Z",
       "tags": [
         "diffusion-single-file",
@@ -105,29 +92,11 @@
       "library": "diffusion-single-file"
     },
     {
-      "id": "unsloth/Inkling-2-Mini-GGUF",
-      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "likes": 359,
-      "downloads": 0,
-      "trendingScore": 344,
-      "createdAt": "2026-11-20T13:09:48.000Z",
-      "tags": [
-        "gguf",
-        "conversational",
-        "image-text-to-text",
-        "moe",
-        "unsloth",
-        "base_model:thinkingmachines/Inkling-2-Mini"
-      ],
-      "pipeline": "image-text-to-text",
-      "library": null
-    },
-    {
       "id": "inworld/voice-isolator",
       "url": "https://huggingface.co/inworld/voice-isolator",
-      "likes": 513,
+      "likes": 473,
       "downloads": 0,
-      "trendingScore": 336,
+      "trendingScore": 353,
       "createdAt": "2026-11-14T02:14:35.000Z",
       "tags": [
         "inworld-voice-isolation",
@@ -141,11 +110,47 @@
       "library": "inworld-voice-isolation"
     },
     {
+      "id": "apple/FastFrames-L",
+      "url": "https://huggingface.co/apple/FastFrames-L",
+      "likes": 464,
+      "downloads": 0,
+      "trendingScore": 331,
+      "createdAt": "2026-11-16T17:21:04.000Z",
+      "tags": [
+        "safetensors",
+        "text-to-video",
+        "arxiv:2611.23226",
+        "base_model:Wan-AI/Wan2.1-T2V-14B",
+        "base_model:finetune:Wan-AI/Wan2.1-T2V-14B",
+        "license:apple-amlr"
+      ],
+      "pipeline": "text-to-video",
+      "library": null
+    },
+    {
+      "id": "higurashi-ai/Haru-4B",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "likes": 818,
+      "downloads": 8120,
+      "trendingScore": 309.5,
+      "createdAt": "2026-11-12T11:05:59.000Z",
+      "tags": [
+        "safetensors",
+        "haru",
+        "speech",
+        "full-duplex",
+        "speech-to-speech",
+        "audio-to-audio"
+      ],
+      "pipeline": "audio-to-audio",
+      "library": null
+    },
+    {
       "id": "meituan-longcat/LongCat-Video-Avatar-1.6",
       "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
-      "likes": 398,
-      "downloads": 2568,
-      "trendingScore": 251,
+      "likes": 356,
+      "downloads": 3031,
+      "trendingScore": 255,
       "createdAt": "2026-11-13T02:45:33.000Z",
       "tags": [
         "longcat-video-avatar-1.6",
@@ -161,9 +166,9 @@
     {
       "id": "n4ze3m/tiny-voca",
       "url": "https://huggingface.co/n4ze3m/tiny-voca",
-      "likes": 390,
-      "downloads": 7949,
-      "trendingScore": 243,
+      "likes": 347,
+      "downloads": 9323,
+      "trendingScore": 250,
       "createdAt": "2026-11-14T15:46:27.000Z",
       "tags": [
         "onnx",
@@ -179,9 +184,9 @@
     {
       "id": "Qwen/Qwen3.8-27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-      "likes": 20749,
+      "likes": 20772,
       "downloads": 6298190,
-      "trendingScore": 227,
+      "trendingScore": 220.5,
       "createdAt": "2026-08-05T08:22:59.000Z",
       "tags": [
         "transformers",
@@ -195,137 +200,11 @@
       "library": "transformers"
     },
     {
-      "id": "sensenova/SenseNova-Loop-9B",
-      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
-      "likes": 455,
-      "downloads": 1631,
-      "trendingScore": 173,
-      "createdAt": "2026-11-17T10:16:41.000Z",
-      "tags": [
-        "transformers",
-        "safetensors",
-        "sensenova_loop",
-        "text-generation",
-        "multimodal",
-        "image-text-to-text"
-      ],
-      "pipeline": "image-text-to-text",
-      "library": "transformers"
-    },
-    {
-      "id": "RadixArk/DaisyRose-27B",
-      "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
-      "likes": 282,
-      "downloads": 918,
-      "trendingScore": 168,
-      "createdAt": "2026-11-18T05:31:35.000Z",
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
-        "daisyrose",
-        "qwen3.8"
-      ],
-      "pipeline": "image-text-to-text",
-      "library": "transformers"
-    },
-    {
-      "id": "MiniMaxAI/MiniMax-H3-Image",
-      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
-      "likes": 1693,
-      "downloads": 876986,
-      "trendingScore": 161,
-      "createdAt": "2026-11-03T06:34:36.000Z",
-      "tags": [
-        "minimax-h3",
-        "diffusers",
-        "safetensors",
-        "text-to-image",
-        "image-to-image",
-        "image-editing"
-      ],
-      "pipeline": "text-to-image",
-      "library": "minimax-h3"
-    },
-    {
-      "id": "apple/FastFrames-L",
-      "url": "https://huggingface.co/apple/FastFrames-L",
-      "likes": 492,
-      "downloads": 0,
-      "trendingScore": 161,
-      "createdAt": "2026-11-16T17:21:04.000Z",
-      "tags": [
-        "safetensors",
-        "text-to-video",
-        "arxiv:2611.23226",
-        "base_model:Wan-AI/Wan2.1-T2V-14B",
-        "base_model:finetune:Wan-AI/Wan2.1-T2V-14B",
-        "license:apple-amlr"
-      ],
-      "pipeline": "text-to-video",
-      "library": null
-    },
-    {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "likes": 689,
-      "downloads": 183617,
-      "trendingScore": 160,
-      "createdAt": "2026-10-05T04:26:43.000Z",
-      "tags": [
-        "transformers",
-        "gguf",
-        "nvidia",
-        "pytorch",
-        "nemotron-3.5",
-        "text-generation"
-      ],
-      "pipeline": "text-generation",
-      "library": "transformers"
-    },
-    {
-      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "likes": 773,
-      "downloads": 309394,
-      "trendingScore": 147,
-      "createdAt": "2026-11-03T16:13:25.000Z",
-      "tags": [
-        "diffusers",
-        "safetensors",
-        "gguf",
-        "qwen-image",
-        "qwen-image-2.1",
-        "text-to-image"
-      ],
-      "pipeline": "text-to-image",
-      "library": "diffusers"
-    },
-    {
-      "id": "apple/DepthPro2",
-      "url": "https://huggingface.co/apple/DepthPro2",
-      "likes": 147,
-      "downloads": 0,
-      "trendingScore": 135,
-      "createdAt": "2026-11-03T16:55:03.000Z",
-      "tags": [
-        "depth-pro-2",
-        "depth-estimation",
-        "metric-depth",
-        "monocular-depth",
-        "video-depth",
-        "arxiv:2611.26603"
-      ],
-      "pipeline": "depth-estimation",
-      "library": "depth-pro-2"
-    },
-    {
       "id": "maxwell-model/Maxwell-V1-Flash",
       "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash",
-      "likes": 304,
-      "downloads": 2453,
-      "trendingScore": 108.5,
+      "likes": 308,
+      "downloads": 2959,
+      "trendingScore": 217,
       "createdAt": "2026-10-13T07:53:39.000Z",
       "tags": [
         "safetensors",
@@ -339,29 +218,119 @@
       "library": null
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-      "likes": 6218,
-      "downloads": 7532043,
-      "trendingScore": 106,
-      "createdAt": "2026-08-13T08:28:40.000Z",
+      "id": "RadixArk/DaisyRose-27B",
+      "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
+      "likes": 256,
+      "downloads": 1375,
+      "trendingScore": 181,
+      "createdAt": "2026-11-18T05:31:35.000Z",
       "tags": [
-        "gguf",
+        "transformers",
+        "safetensors",
         "qwen3_5",
-        "unsloth",
-        "qwen",
-        "base_model:Qwen/Qwen3.8-27B",
-        "base_model:quantized:Qwen/Qwen3.8-27B"
+        "image-text-to-text",
+        "daisyrose",
+        "qwen3.8"
       ],
-      "pipeline": null,
-      "library": null
+      "pipeline": "image-text-to-text",
+      "library": "transformers"
+    },
+    {
+      "id": "sensenova/SenseNova-Loop-9B",
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+      "likes": 437,
+      "downloads": 1745,
+      "trendingScore": 178.5,
+      "createdAt": "2026-11-17T10:16:41.000Z",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "sensenova_loop",
+        "text-generation",
+        "multimodal",
+        "image-text-to-text"
+      ],
+      "pipeline": "image-text-to-text",
+      "library": "transformers"
+    },
+    {
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "likes": 668,
+      "downloads": 195916,
+      "trendingScore": 163,
+      "createdAt": "2026-10-05T04:26:43.000Z",
+      "tags": [
+        "transformers",
+        "gguf",
+        "nvidia",
+        "pytorch",
+        "nemotron-3.5",
+        "text-generation"
+      ],
+      "pipeline": "text-generation",
+      "library": "transformers"
+    },
+    {
+      "id": "apple/DepthPro2",
+      "url": "https://huggingface.co/apple/DepthPro2",
+      "likes": 172,
+      "downloads": 0,
+      "trendingScore": 158,
+      "createdAt": "2026-11-03T16:55:03.000Z",
+      "tags": [
+        "depth-pro-2",
+        "depth-estimation",
+        "metric-depth",
+        "monocular-depth",
+        "video-depth",
+        "arxiv:2611.26603"
+      ],
+      "pipeline": "depth-estimation",
+      "library": "depth-pro-2"
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "likes": 1662,
+      "downloads": 916726,
+      "trendingScore": 154,
+      "createdAt": "2026-11-03T06:34:36.000Z",
+      "tags": [
+        "minimax-h3",
+        "diffusers",
+        "safetensors",
+        "text-to-image",
+        "image-to-image",
+        "image-editing"
+      ],
+      "pipeline": "text-to-image",
+      "library": "minimax-h3"
+    },
+    {
+      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "likes": 707,
+      "downloads": 339903,
+      "trendingScore": 144,
+      "createdAt": "2026-11-03T16:13:25.000Z",
+      "tags": [
+        "diffusers",
+        "safetensors",
+        "gguf",
+        "qwen-image",
+        "qwen-image-2.1",
+        "text-to-image"
+      ],
+      "pipeline": "text-to-image",
+      "library": "diffusers"
     },
     {
       "id": "Cloudflare/clairic",
       "url": "https://huggingface.co/Cloudflare/clairic",
-      "likes": 204,
-      "downloads": 246,
-      "trendingScore": 105,
+      "likes": 161,
+      "downloads": 547,
+      "trendingScore": 115,
       "createdAt": "2026-10-16T15:07:01.000Z",
       "tags": [
         "transformers",
@@ -377,9 +346,9 @@
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "likes": 3444,
+      "likes": 3435,
       "downloads": 1787788,
-      "trendingScore": 104.5,
+      "trendingScore": 107.5,
       "createdAt": "2026-09-01T07:01:09.000Z",
       "tags": [
         "gguf",
@@ -395,9 +364,9 @@
     {
       "id": "harness-hub/Qwen3.8-27B-opencode-adapted",
       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted",
-      "likes": 138,
-      "downloads": 302,
-      "trendingScore": 100,
+      "likes": 147,
+      "downloads": 578,
+      "trendingScore": 106,
       "createdAt": "2026-11-16T08:33:31.000Z",
       "tags": [
         "peft",
@@ -413,9 +382,9 @@
     {
       "id": "tencent/Hy4",
       "url": "https://huggingface.co/tencent/Hy4",
-      "likes": 123,
-      "downloads": 89,
-      "trendingScore": 98,
+      "likes": 130,
+      "downloads": 974,
+      "trendingScore": 103,
       "createdAt": "2026-10-29T08:29:16.000Z",
       "tags": [
         "transformers",
@@ -427,15 +396,51 @@
       ],
       "pipeline": "image-text-to-text",
       "library": "transformers"
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "likes": 6231,
+      "downloads": 7532043,
+      "trendingScore": 102,
+      "createdAt": "2026-08-13T08:28:40.000Z",
+      "tags": [
+        "gguf",
+        "qwen3_5",
+        "unsloth",
+        "qwen",
+        "base_model:Qwen/Qwen3.8-27B",
+        "base_model:quantized:Qwen/Qwen3.8-27B"
+      ],
+      "pipeline": null,
+      "library": null
+    },
+    {
+      "id": "microsoft/Aion-1.0-Instruct-2.3B",
+      "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+      "likes": 122,
+      "downloads": 3099,
+      "trendingScore": 93,
+      "createdAt": "2026-11-18T17:05:50.000Z",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "aion_instruct",
+        "text-generation",
+        "custom_code",
+        "summarization"
+      ],
+      "pipeline": "text-generation",
+      "library": "transformers"
     }
   ],
   "datasets": [
     {
       "id": "Vyber07/cyber-security",
       "url": "https://huggingface.co/datasets/Vyber07/cyber-security",
-      "likes": 1335,
-      "downloads": 28056,
-      "trendingScore": 183,
+      "likes": 1348,
+      "downloads": 28737,
+      "trendingScore": 185,
       "createdAt": "2026-05-30T16:41:46.000Z",
       "tags": [
         "task_categories:text-generation",
@@ -450,9 +455,9 @@
     {
       "id": "nvidia/USDCraft-10K",
       "url": "https://huggingface.co/datasets/nvidia/USDCraft-10K",
-      "likes": 133,
-      "downloads": 55150,
-      "trendingScore": 82,
+      "likes": 134,
+      "downloads": 59674,
+      "trendingScore": 83,
       "createdAt": "2026-10-28T13:26:28.000Z",
       "tags": [
         "task_categories:robotics",
@@ -467,9 +472,9 @@
     {
       "id": "Angais/pixel-art-atlas-1.4m",
       "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m",
-      "likes": 653,
-      "downloads": 72583,
-      "trendingScore": 55.5,
+      "likes": 652,
+      "downloads": 73974,
+      "trendingScore": 53.5,
       "createdAt": "2026-11-06T12:37:24.000Z",
       "tags": [
         "task_categories:text-to-image",
@@ -484,9 +489,9 @@
     {
       "id": "nvidia/simready-assets",
       "url": "https://huggingface.co/datasets/nvidia/simready-assets",
-      "likes": 1693,
-      "downloads": 1731953,
-      "trendingScore": 34,
+      "likes": 1698,
+      "downloads": 1737165,
+      "trendingScore": 34.5,
       "createdAt": "2026-06-29T15:38:26.000Z",
       "tags": [
         "license:cc-by-4.0",
@@ -498,9 +503,9 @@
     {
       "id": "google/physical-engineerings-last-exam",
       "url": "https://huggingface.co/datasets/google/physical-engineerings-last-exam",
-      "likes": 157,
-      "downloads": 223078,
-      "trendingScore": 21,
+      "likes": 160,
+      "downloads": 316255,
+      "trendingScore": 22,
       "createdAt": "2026-10-18T08:54:22.000Z",
       "tags": [
         "benchmark:official",
@@ -515,9 +520,9 @@
     {
       "id": "Digitaluz/uzbek-language-corpus",
       "url": "https://huggingface.co/datasets/Digitaluz/uzbek-language-corpus",
-      "likes": 74,
-      "downloads": 877,
-      "trendingScore": 20,
+      "likes": 75,
+      "downloads": 1857,
+      "trendingScore": 21,
       "createdAt": "2026-11-18T14:02:31.000Z",
       "tags": [
         "task_categories:text-generation",
@@ -533,7 +538,7 @@
       "id": "HubLabs/HubEgo-100K",
       "url": "https://huggingface.co/datasets/HubLabs/HubEgo-100K",
       "likes": 72,
-      "downloads": 190021,
+      "downloads": 223738,
       "trendingScore": 19,
       "createdAt": "2026-11-12T16:49:09.000Z",
       "tags": [
@@ -549,9 +554,9 @@
     {
       "id": "nvidia/PhysicalAI-Human-1M-100K",
       "url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Human-1M-100K",
-      "likes": 111,
-      "downloads": 19357,
-      "trendingScore": 13,
+      "likes": 113,
+      "downloads": 20532,
+      "trendingScore": 14,
       "createdAt": "2026-11-04T22:32:05.000Z",
       "tags": [
         "language:en",
@@ -566,8 +571,8 @@
     {
       "id": "KORMo-VL/EVIDENT",
       "url": "https://huggingface.co/datasets/KORMo-VL/EVIDENT",
-      "likes": 64,
-      "downloads": 768,
+      "likes": 63,
+      "downloads": 798,
       "trendingScore": 13,
       "createdAt": "2026-11-14T16:33:09.000Z",
       "tags": [
@@ -583,9 +588,9 @@
     {
       "id": "google/multimodal-knowledge-agent",
       "url": "https://huggingface.co/datasets/google/multimodal-knowledge-agent",
-      "likes": 85,
-      "downloads": 7529,
-      "trendingScore": 12.5,
+      "likes": 84,
+      "downloads": 8377,
+      "trendingScore": 12,
       "createdAt": "2026-11-09T13:42:15.000Z",
       "tags": [
         "task_categories:image-text-to-text",
@@ -598,27 +603,10 @@
       "description": "Multimodal Knowledge Agent (MKA) — 10 Showcase Examples Multimodal Knowledge Agent (MKA) is a benchmark from Google DeepMind for evaluating autonomous AI agents on complex, multi-step, real-world visual knowledge work across professional do"
     },
     {
-      "id": "HuggingFaceFW/fineweb",
-      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
-      "likes": 3788,
-      "downloads": 363745,
-      "trendingScore": 10.5,
-      "createdAt": "2024-04-18T14:33:13.000Z",
-      "tags": [
-        "task_categories:text-generation",
-        "language:en",
-        "license:odc-by",
-        "size_categories:10B<n<100B",
-        "modality:tabular",
-        "modality:text"
-      ],
-      "description": "🍷 FineWeb 15 trillion tokens of the finest data the 🌐 web has to offer What is it? The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T tokens) of cleaned and deduplicated english web data from CommonCrawl. The data p"
-    },
-    {
       "id": "KORMo-VL/Ko-Screenspot",
       "url": "https://huggingface.co/datasets/KORMo-VL/Ko-Screenspot",
-      "likes": 50,
-      "downloads": 153,
+      "likes": 48,
+      "downloads": 174,
       "trendingScore": 10.5,
       "createdAt": "2026-11-16T01:44:01.000Z",
       "tags": [
@@ -634,8 +622,8 @@
     {
       "id": "KORMo-VL/Ko-Online-Mind2Web",
       "url": "https://huggingface.co/datasets/KORMo-VL/Ko-Online-Mind2Web",
-      "likes": 45,
-      "downloads": 114,
+      "likes": 43,
+      "downloads": 134,
       "trendingScore": 10.5,
       "createdAt": "2026-11-16T01:44:01.000Z",
       "tags": [
@@ -649,10 +637,27 @@
       "description": "🇰🇷 Ko-Online-Mind2Web A live Korean web-agent benchmark, built manually by native Korean annotators. 📋 312 tasks · 🌐 104 websites · ✍️ ~480 annotator-hours · 🔴 Live evaluation 📌 Overview Ko-Online-Mind2Web is a live web-agent benchmar"
     },
     {
+      "id": "azyg0s/pixelart-172k",
+      "url": "https://huggingface.co/datasets/azyg0s/pixelart-172k",
+      "likes": 16,
+      "downloads": 1783,
+      "trendingScore": 10,
+      "createdAt": "2026-10-23T11:47:14.000Z",
+      "tags": [
+        "task_categories:text-to-image",
+        "language:en",
+        "license:mit",
+        "size_categories:100K<n<1M",
+        "format:parquet",
+        "modality:image"
+      ],
+      "description": "Pixel-art icons 172,330 captioned 32×32 RGBA pixel-art game icons with transparent backgrounds, plus 1,634 held-out validation sprites. This is the training set of the 49.8M-parameter azyg0s/pixelart-50m text-to-image model. Random training"
+    },
+    {
       "id": "KORMo-VL/Ko-MultimodalMind2Web",
       "url": "https://huggingface.co/datasets/KORMo-VL/Ko-MultimodalMind2Web",
-      "likes": 52,
-      "downloads": 126,
+      "likes": 51,
+      "downloads": 141,
       "trendingScore": 10,
       "createdAt": "2026-11-16T01:44:01.000Z",
       "tags": [
@@ -668,9 +673,9 @@
     {
       "id": "AJ-Gonzalez/qwen4-max-reasoning-250x",
       "url": "https://huggingface.co/datasets/AJ-Gonzalez/qwen4-max-reasoning-250x",
-      "likes": 39,
-      "downloads": 235,
-      "trendingScore": 9.5,
+      "likes": 41,
+      "downloads": 296,
+      "trendingScore": 10,
       "createdAt": "2026-11-16T07:44:39.000Z",
       "tags": [
         "task_categories:text-generation",
@@ -683,10 +688,78 @@
       "description": "Qwen4 Max Reasoning Traces — 250x 250 prompts from the MiMo-2.6-Pro 250x prompt set, answered by qwen/qwen4-max (OpenRouter, canonical qwen/qwen4-max-20261115) on 2026-11-15/16. One row per prompt, with the full reasoning trace and final an"
     },
     {
+      "id": "RodrigoFlorencio/brazilian-portuguese-medicine-corpus",
+      "url": "https://huggingface.co/datasets/RodrigoFlorencio/brazilian-portuguese-medicine-corpus",
+      "likes": 11,
+      "downloads": 24,
+      "trendingScore": 10,
+      "createdAt": "2026-11-18T20:35:41.000Z",
+      "tags": [
+        "task_categories:text-generation",
+        "source_datasets:latam-gpt/LatamGPT-Corpus-1.0",
+        "language:pt",
+        "license:other",
+        "size_categories:10K<n<100K",
+        "format:parquet"
+      ],
+      "description": "Treinar um modelo com este corpus ›Filtrar outra categoria › Brazilian Portuguese Medicine & Health Corpus 75.778 documentos de texto em português brasileiro sobre medicina e saúde, extraídos do LatamGPT-Corpus-1.0 — o corpus aberto montado"
+    },
+    {
+      "id": "HuggingFaceFW/fineweb",
+      "url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
+      "likes": 3785,
+      "downloads": 363449,
+      "trendingScore": 9.5,
+      "createdAt": "2024-04-18T14:33:13.000Z",
+      "tags": [
+        "task_categories:text-generation",
+        "language:en",
+        "license:odc-by",
+        "size_categories:10B<n<100B",
+        "modality:tabular",
+        "modality:text"
+      ],
+      "description": "🍷 FineWeb 15 trillion tokens of the finest data the 🌐 web has to offer What is it? The 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T tokens) of cleaned and deduplicated english web data from CommonCrawl. The data p"
+    },
+    {
+      "id": "JaimeMaLangue/JML-fon-speech-v1",
+      "url": "https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1",
+      "likes": 43,
+      "downloads": 382,
+      "trendingScore": 9.5,
+      "createdAt": "2026-11-16T17:08:15.000Z",
+      "tags": [
+        "task_categories:automatic-speech-recognition",
+        "language:fon",
+        "license:cc-by-sa-4.0",
+        "size_categories:100K<n<1M",
+        "format:csv",
+        "modality:text"
+      ],
+      "description": "J'aime Ma Langue — Fongbe speech corpus v1 Fongbe speech from many voices, with tonal transcriptions reviewed and validated by linguists, and recordings not yet transcribed. This corpus is released by J'aime Ma Langue, the national initiati"
+    },
+    {
+      "id": "codepawl/cmu-mocap-glb",
+      "url": "https://huggingface.co/datasets/codepawl/cmu-mocap-glb",
+      "likes": 37,
+      "downloads": 3610,
+      "trendingScore": 9,
+      "createdAt": "2026-11-18T18:13:49.000Z",
+      "tags": [
+        "license:other",
+        "size_categories:1K<n<10K",
+        "format:parquet",
+        "modality:3d",
+        "modality:image",
+        "modality:text"
+      ],
+      "description": "CMU Motion Capture Database as GLB 2426 motion capture clips from CMU Graphics Lab Motion Capture Database: 6 categories, 2,276,379 frames (10.5 hours) at 60 fps. Every clip is retargeted onto one free character and also ships as the bare s"
+    },
+    {
       "id": "TheAgenticDataCompany/open-yap-1k",
       "url": "https://huggingface.co/datasets/TheAgenticDataCompany/open-yap-1k",
       "likes": 254,
-      "downloads": 8299,
+      "downloads": 8270,
       "trendingScore": 8.5,
       "createdAt": "2026-09-02T09:13:14.000Z",
       "tags": [
@@ -700,27 +773,10 @@
       "description": "Open Yap 1K: 1,000 hours of full-duplex natural conversation, free for commercial use Today we're releasing Open Yap 1K: 1,000 hours of dual-channel English conversation, capturing how people speak together naturally in real-world environme"
     },
     {
-      "id": "ccore/ThreeJS-3D-Scenes",
-      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes",
-      "likes": 163,
-      "downloads": 15038,
-      "trendingScore": 8.5,
-      "createdAt": "2026-10-28T03:21:45.000Z",
-      "tags": [
-        "task_categories:text-generation",
-        "language:en",
-        "license:mit",
-        "size_categories:1K<n<10K",
-        "format:parquet",
-        "modality:image"
-      ],
-      "description": "CCORE Three.js 3D Scenes 4,146 high-quality 3D scene examples with prompts, full thinking traces, and complete HTML/JavaScript responses. The scene code and thinking traces were generated with MiniMax M3.1 Flash. This dataset brings togethe"
-    },
-    {
       "id": "n4ze3m/tiny-voca",
       "url": "https://huggingface.co/datasets/n4ze3m/tiny-voca",
       "likes": 45,
-      "downloads": 796,
+      "downloads": 874,
       "trendingScore": 8.5,
       "createdAt": "2026-11-13T07:24:48.000Z",
       "tags": [
@@ -734,27 +790,27 @@
       "description": "tiny-voca dataset A synthetic American English speech corpus with two voices, F2 (female) and M2 (male), made to train the tiny-voca text-to-speech model. Every sentence is read by both voices. Clips 17,371 Duration 19.1 hours Voices F2, M2"
     },
     {
-      "id": "codepawl/cmu-mocap-glb",
-      "url": "https://huggingface.co/datasets/codepawl/cmu-mocap-glb",
-      "likes": 37,
-      "downloads": 1862,
+      "id": "ccore/ThreeJS-3D-Scenes-v2",
+      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2",
+      "likes": 29,
+      "downloads": 1497,
       "trendingScore": 8.5,
-      "createdAt": "2026-11-18T18:13:49.000Z",
+      "createdAt": "2026-11-17T22:46:50.000Z",
       "tags": [
-        "license:other",
+        "task_categories:text-generation",
+        "language:en",
+        "license:mit",
         "size_categories:1K<n<10K",
         "format:parquet",
-        "modality:3d",
-        "modality:image",
-        "modality:text"
+        "modality:image"
       ],
-      "description": "CMU Motion Capture Database as GLB 2426 motion capture clips from CMU Graphics Lab Motion Capture Database: 6 categories, 2,276,379 frames (10.5 hours) at 60 fps. Every clip is retargeted onto one free character and also ships as the bare s"
+      "description": "CCORE Three.js 3D Scenes v2 3,445 curated scene examples across 50 domains, including 1,431 voxel scenes, with scene prompts, curated reasoning traces, HTML/JavaScript responses and rendered references. ThreeJS-3D-Scenes-v2 extends ThreeJS-"
     },
     {
       "id": "ILSVRC/imagenet-1k",
       "url": "https://huggingface.co/datasets/ILSVRC/imagenet-1k",
-      "likes": 1197,
-      "downloads": 92232,
+      "likes": 1196,
+      "downloads": 92689,
       "trendingScore": 8,
       "createdAt": "2022-05-02T16:33:23.000Z",
       "tags": [
@@ -768,81 +824,30 @@
       "description": "Dataset Card for ImageNet Dataset Summary ILSVRC 2012, commonly known as 'ImageNet' is an image dataset organized according to the WordNet hierarchy. Each meaningful concept in WordNet, possibly described by multiple words or word phrases, "
     },
     {
-      "id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
-      "url": "https://huggingface.co/datasets/MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
-      "likes": 544,
-      "downloads": 6614,
+      "id": "polydata5/polymarket-updown-5m-ws",
+      "url": "https://huggingface.co/datasets/polydata5/polymarket-updown-5m-ws",
+      "likes": 19,
+      "downloads": 84299,
       "trendingScore": 8,
-      "createdAt": "2026-09-02T12:52:47.000Z",
+      "createdAt": "2026-10-24T09:59:23.000Z",
       "tags": [
-        "task_categories:text-generation",
-        "task_categories:question-answering",
-        "language:en",
-        "license:apache-2.0",
-        "size_categories:10K<n<100K",
-        "format:json"
-      ],
-      "description": "Dataset Description This dataset contains 10,000 agentic coding and reasoning multi-turn high-quality traces generated by the new Fable 5.1 model using max reasoning effort. It holds almost 500,000,000 tokens of step-by-step chain-of-though"
-    },
-    {
-      "id": "azyg0s/pixelart-172k",
-      "url": "https://huggingface.co/datasets/azyg0s/pixelart-172k",
-      "likes": 14,
-      "downloads": 1561,
-      "trendingScore": 8,
-      "createdAt": "2026-10-23T11:47:14.000Z",
-      "tags": [
-        "task_categories:text-to-image",
-        "language:en",
-        "license:mit",
-        "size_categories:100K<n<1M",
-        "format:parquet",
-        "modality:image"
-      ],
-      "description": "Pixel-art icons 172,330 captioned 32×32 RGBA pixel-art game icons with transparent backgrounds, plus 1,634 held-out validation sprites. This is the training set of the 49.8M-parameter azyg0s/pixelart-50m text-to-image model. Random training"
-    },
-    {
-      "id": "JaimeMaLangue/JML-fon-speech-v1",
-      "url": "https://huggingface.co/datasets/JaimeMaLangue/JML-fon-speech-v1",
-      "likes": 39,
-      "downloads": 293,
-      "trendingScore": 8,
-      "createdAt": "2026-11-16T17:08:15.000Z",
-      "tags": [
-        "task_categories:automatic-speech-recognition",
-        "language:fon",
-        "license:cc-by-sa-4.0",
-        "size_categories:100K<n<1M",
-        "format:csv",
+        "task_categories:time-series-forecasting",
+        "license:cc-by-4.0",
+        "size_categories:1B<n<10B",
+        "format:json",
+        "modality:tabular",
         "modality:text"
       ],
-      "description": "J'aime Ma Langue — Fongbe speech corpus v1 Fongbe speech from many voices, with tonal transcriptions reviewed and validated by linguists, and recordings not yet transcribed. This corpus is released by J'aime Ma Langue, the national initiati"
-    },
-    {
-      "id": "ccore/ThreeJS-3D-Scenes-v2",
-      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2",
-      "likes": 30,
-      "downloads": 1207,
-      "trendingScore": 8,
-      "createdAt": "2026-11-17T22:46:50.000Z",
-      "tags": [
-        "task_categories:text-generation",
-        "language:en",
-        "license:mit",
-        "size_categories:1K<n<10K",
-        "format:parquet",
-        "modality:image"
-      ],
-      "description": "CCORE Three.js 3D Scenes v2 3,445 curated scene examples across 50 domains, including 1,431 voxel scenes, with scene prompts, curated reasoning traces, HTML/JavaScript responses and rendered references. ThreeJS-3D-Scenes-v2 extends ThreeJS-"
+      "description": "Polymarket Crypto Up/Down 5-Minute Markets: Raw WebSocket Capture A continuous recording of Polymarket's public WebSocket feeds for the rolling 5-minute \"Up or Down\" crypto markets: the full order book and every trade of each market, plus t"
     }
   ],
   "spaces": [
     {
       "id": "huggingface/moe-blogpost",
       "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
-      "likes": 785,
+      "likes": 797,
       "downloads": 0,
-      "trendingScore": 147,
+      "trendingScore": 153,
       "createdAt": "2026-10-09T15:24:25.000Z",
       "tags": [
         "docker",
@@ -853,9 +858,9 @@
     {
       "id": "JCisHERE/wan2-2-i2v-v3",
       "url": "https://huggingface.co/spaces/JCisHERE/wan2-2-i2v-v3",
-      "likes": 542,
+      "likes": 551,
       "downloads": 0,
-      "trendingScore": 123,
+      "trendingScore": 124,
       "createdAt": "2026-09-28T17:30:26.000Z",
       "tags": [
         "gradio",
@@ -867,9 +872,9 @@
     {
       "id": "MiniMaxAI/minimax-h3-image",
       "url": "https://huggingface.co/spaces/MiniMaxAI/minimax-h3-image",
-      "likes": 232,
+      "likes": 238,
       "downloads": 0,
-      "trendingScore": 119,
+      "trendingScore": 121,
       "createdAt": "2026-11-09T13:26:35.000Z",
       "tags": [
         "gradio",
@@ -880,15 +885,28 @@
     {
       "id": "joelniklaus/harness-leaderboard",
       "url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
-      "likes": 485,
+      "likes": 491,
       "downloads": 0,
-      "trendingScore": 111,
+      "trendingScore": 109,
       "createdAt": "2026-10-15T06:00:13.000Z",
       "tags": [
         "docker",
         "region:us"
       ],
       "sdk": "docker"
+    },
+    {
+      "id": "waitinghere/Krea2T-Revamped",
+      "url": "https://huggingface.co/spaces/waitinghere/Krea2T-Revamped",
+      "likes": 110,
+      "downloads": 0,
+      "trendingScore": 69,
+      "createdAt": "2026-10-19T03:38:31.000Z",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "sdk": "gradio"
     },
     {
       "id": "cfahlgren1/slack-moji",
@@ -906,9 +924,9 @@
     {
       "id": "hugging-apps/bfs-best-face-swap",
       "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
-      "likes": 1013,
+      "likes": 1016,
       "downloads": 0,
-      "trendingScore": 63,
+      "trendingScore": 64,
       "createdAt": "2026-09-27T18:26:19.000Z",
       "tags": [
         "gradio",
@@ -918,24 +936,11 @@
       "sdk": "gradio"
     },
     {
-      "id": "waitinghere/Krea2T-Revamped",
-      "url": "https://huggingface.co/spaces/waitinghere/Krea2T-Revamped",
-      "likes": 100,
-      "downloads": 0,
-      "trendingScore": 60,
-      "createdAt": "2026-10-19T03:38:31.000Z",
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "sdk": "gradio"
-    },
-    {
       "id": "amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer",
       "url": "https://huggingface.co/spaces/amisima/Qwen-2.1-Turbo-Qwen-Face-Swap-MOSS-Image-Edit-Outpaint-Qwen-Detail-Enhancer",
-      "likes": 107,
+      "likes": 109,
       "downloads": 0,
-      "trendingScore": 48,
+      "trendingScore": 46,
       "createdAt": "2026-09-25T09:54:39.000Z",
       "tags": [
         "gradio",
@@ -950,10 +955,23 @@
     {
       "id": "rdata92/LTX-2.3-10Eros",
       "url": "https://huggingface.co/spaces/rdata92/LTX-2.3-10Eros",
-      "likes": 220,
+      "likes": 218,
+      "downloads": 0,
+      "trendingScore": 45,
+      "createdAt": "2026-10-15T12:54:41.000Z",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "sdk": "gradio"
+    },
+    {
+      "id": "Lakonik/pi-H3",
+      "url": "https://huggingface.co/spaces/Lakonik/pi-H3",
+      "likes": 59,
       "downloads": 0,
       "trendingScore": 44,
-      "createdAt": "2026-10-15T12:54:41.000Z",
+      "createdAt": "2026-11-09T04:59:51.000Z",
       "tags": [
         "gradio",
         "region:us"
@@ -963,7 +981,7 @@
     {
       "id": "agent-memory-leaderboard/leaderboard",
       "url": "https://huggingface.co/spaces/agent-memory-leaderboard/leaderboard",
-      "likes": 932,
+      "likes": 933,
       "downloads": 0,
       "trendingScore": 42,
       "createdAt": "2026-08-06T15:18:18.000Z",
@@ -980,9 +998,9 @@
     {
       "id": "AST-1320/Qwen-2511-Plus-Flux.2-klein",
       "url": "https://huggingface.co/spaces/AST-1320/Qwen-2511-Plus-Flux.2-klein",
-      "likes": 470,
+      "likes": 476,
       "downloads": 0,
-      "trendingScore": 40,
+      "trendingScore": 42,
       "createdAt": "2026-09-19T10:48:19.000Z",
       "tags": [
         "gradio",
@@ -1008,24 +1026,11 @@
       "sdk": "gradio"
     },
     {
-      "id": "Lakonik/pi-H3",
-      "url": "https://huggingface.co/spaces/Lakonik/pi-H3",
-      "likes": 54,
-      "downloads": 0,
-      "trendingScore": 39,
-      "createdAt": "2026-11-09T04:59:51.000Z",
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "sdk": "gradio"
-    },
-    {
       "id": "HuggingFaceSwarms/PyBot",
       "url": "https://huggingface.co/spaces/HuggingFaceSwarms/PyBot",
-      "likes": 41,
+      "likes": 43,
       "downloads": 0,
-      "trendingScore": 36,
+      "trendingScore": 38,
       "createdAt": "2026-11-11T22:48:36.000Z",
       "tags": [
         "docker",
@@ -1036,9 +1041,9 @@
     {
       "id": "hugging-apps/clairic",
       "url": "https://huggingface.co/spaces/hugging-apps/clairic",
-      "likes": 37,
+      "likes": 40,
       "downloads": 0,
-      "trendingScore": 36,
+      "trendingScore": 38,
       "createdAt": "2026-11-18T23:16:18.000Z",
       "tags": [
         "gradio",
@@ -1048,22 +1053,9 @@
       "sdk": "gradio"
     },
     {
-      "id": "microsoft/TRELLIS.2",
-      "url": "https://huggingface.co/spaces/microsoft/TRELLIS.2",
-      "likes": 2432,
-      "downloads": 0,
-      "trendingScore": 35,
-      "createdAt": "2025-12-10T03:50:25.000Z",
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "sdk": "gradio"
-    },
-    {
       "id": "Guaryn/qwen-image-2.1-uncensored-aio-loras",
       "url": "https://huggingface.co/spaces/Guaryn/qwen-image-2.1-uncensored-aio-loras",
-      "likes": 233,
+      "likes": 235,
       "downloads": 0,
       "trendingScore": 34.3,
       "createdAt": "2026-10-20T11:23:06.000Z",
@@ -1077,7 +1069,7 @@
     {
       "id": "PrunaAI/P-Image-OSS",
       "url": "https://huggingface.co/spaces/PrunaAI/P-Image-OSS",
-      "likes": 193,
+      "likes": 194,
       "downloads": 0,
       "trendingScore": 33,
       "createdAt": "2026-11-03T15:16:32.000Z",
@@ -1089,11 +1081,24 @@
       "sdk": "gradio"
     },
     {
+      "id": "microsoft/TRELLIS.2",
+      "url": "https://huggingface.co/spaces/microsoft/TRELLIS.2",
+      "likes": 2435,
+      "downloads": 0,
+      "trendingScore": 32,
+      "createdAt": "2025-12-10T03:50:25.000Z",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "sdk": "gradio"
+    },
+    {
       "id": "Zyphra/ZONOS3-Mini",
       "url": "https://huggingface.co/spaces/Zyphra/ZONOS3-Mini",
       "likes": 47,
       "downloads": 0,
-      "trendingScore": 33,
+      "trendingScore": 32,
       "createdAt": "2026-11-04T11:10:39.000Z",
       "tags": [
         "gradio",
@@ -1104,9 +1109,9 @@
     {
       "id": "selfit-camera/Omni-Image-Editor",
       "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
-      "likes": 2973,
+      "likes": 2975,
       "downloads": 0,
-      "trendingScore": 31,
+      "trendingScore": 28,
       "createdAt": "2025-12-13T03:04:18.000Z",
       "tags": [
         "gradio",
@@ -1115,11 +1120,24 @@
       "sdk": "gradio"
     },
     {
+      "id": "multimodalart/jev-decision-index",
+      "url": "https://huggingface.co/spaces/multimodalart/jev-decision-index",
+      "likes": 955,
+      "downloads": 0,
+      "trendingScore": 27,
+      "createdAt": "2026-09-17T20:05:16.000Z",
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "sdk": "static"
+    },
+    {
       "id": "linoyts/qwen-image-2-1-realtime",
       "url": "https://huggingface.co/spaces/linoyts/qwen-image-2-1-realtime",
-      "likes": 278,
+      "likes": 279,
       "downloads": 0,
-      "trendingScore": 28,
+      "trendingScore": 27,
       "createdAt": "2026-10-23T12:50:26.000Z",
       "tags": [
         "gradio",
@@ -1129,38 +1147,11 @@
       "sdk": "gradio"
     },
     {
-      "id": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-      "url": "https://huggingface.co/spaces/aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
-      "likes": 604,
-      "downloads": 0,
-      "trendingScore": 27,
-      "createdAt": "2026-02-27T11:06:16.000Z",
-      "tags": [
-        "gradio",
-        "mcp-server",
-        "region:us"
-      ],
-      "sdk": "gradio"
-    },
-    {
-      "id": "multimodalart/jev-decision-index",
-      "url": "https://huggingface.co/spaces/multimodalart/jev-decision-index",
-      "likes": 951,
-      "downloads": 0,
-      "trendingScore": 26,
-      "createdAt": "2026-09-17T20:05:16.000Z",
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "sdk": "static"
-    },
-    {
       "id": "nvidia/PhysicalAI-Human-1M-Explorer",
       "url": "https://huggingface.co/spaces/nvidia/PhysicalAI-Human-1M-Explorer",
-      "likes": 52,
+      "likes": 53,
       "downloads": 0,
-      "trendingScore": 25,
+      "trendingScore": 26,
       "createdAt": "2026-11-04T22:32:07.000Z",
       "tags": [
         "static",
@@ -1170,6 +1161,19 @@
         "region:us"
       ],
       "sdk": "static"
+    },
+    {
+      "id": "ritianyu/SplatAnything",
+      "url": "https://huggingface.co/spaces/ritianyu/SplatAnything",
+      "likes": 43,
+      "downloads": 0,
+      "trendingScore": 25,
+      "createdAt": "2026-11-08T11:10:22.000Z",
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "sdk": "gradio"
     }
   ]
 }
